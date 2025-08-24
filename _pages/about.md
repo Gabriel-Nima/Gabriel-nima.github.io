@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gabriel Nima"
+title: # titulo
 author_profile: true
 redirect_from: 
   - /about/
