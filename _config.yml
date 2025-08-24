@@ -23,7 +23,7 @@ repository               : "gabriel-nima/gabriel-nima.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "<div style='text-align:center'>Gabriel Nima B.<br>DDS. MSc. PhD.</div>"
+  name             : "Gabriel Nima B.<br>DDS. MSc. PhD."
   pronouns         : # example: "she/her"  
   bio              : "Dental Materials Research<br>Assistant Professor of Dentistry, Universidad de los Andes, Chile"
   location         : # URL
