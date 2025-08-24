@@ -22,7 +22,7 @@ repository               : "gabriel-nima/gabriel-nima.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "GNB.png"
   name             : "Gabriel Nima B.<br>DDS. MSc. PhD."
   pronouns         : # example: "she/her"  
   bio              : "Dental Materials Research<br>Assistant Professor of Dentistry, Universidad de los Andes, Chile"
