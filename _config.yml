@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Gabriel Nima - Researcher in Dental Materials"
+title                    : "Gabriel Nima"
 title_separator          : "-"
 name                     : &name "Gabriel Nima"
 description              : &description "Academic website of Gabriel Nima, researcher in dental materials, photopolymerization, and antimicrobial photodynamic therapy"
