@@ -25,7 +25,7 @@ Work experience
 * 2021 – 2023: Lecturer (Faculty Member)  
   * Universidad Norbert Wiener, Lima, Peru  
 
-* 2021 – 2023: Faculty & Master’s Program Coordinator  
+* 2021 – 2023: Assistant Professor 
   * Universidad Científica del Sur, Lima, Peru  
 
 * 2018 – 2019: Visiting Researcher  
