@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD. in Dental Materials, Piracicaba Dental School, 2020
+* MSc. in Dental Materials, Piracicaba Dental School, 2016
+* DDS. in Dentistry, Universidad Nacional Mayor de San Marcos, 2007
 
 Work experience
 ======
