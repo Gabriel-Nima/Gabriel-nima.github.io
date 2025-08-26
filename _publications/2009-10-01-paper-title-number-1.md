@@ -3,11 +3,11 @@ title: "Accuracy of additive and subtractive methods for interim tooth-supported
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal Prosthetic Dentistry'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'This in vitro study compared the accuracy of subtractive (milled PMMA) and additive (SLA, DLP) methods for interim tooth-supported restorations. Results showed comparable accuracy at the intaglio surface, but milled PMMA exhibited superior occlusal precision, reinforcing its role as the current standard.'
+date: August 2025
+venue: 'The Journal Prosthetic Dentistry'
+slidesurl:
+paperurl: 'https://www.thejpd.org/article/S0022-3913(25)00308-7/fulltext'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Nima G, Ratzeburg FSG, Manrique Z, Mukai E, Bechtold TE, Gallardo YNR. Accuracy of additive and subtractive methods for interim tooth-supported restorations: An in vitro comparison of occlusal, axial, and intaglio surfaces. J Prosthet Dent. 2025 Aug;134(2):408.e1-408.e8. doi: 10.1016/j.prosdent.2025.04.006. Epub 2025 Apr 24. PMID: 40274499.'
 ---
