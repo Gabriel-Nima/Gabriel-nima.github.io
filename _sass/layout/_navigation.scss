@@ -442,3 +442,12 @@
     }
   }
 }
+
+/* Forzar menú alineado a la derecha */
+.nav__list {
+  text-align: right;
+
+  ul {
+    display: inline-block; /* evita que la lista ocupe todo el ancho */
+  }
+}
