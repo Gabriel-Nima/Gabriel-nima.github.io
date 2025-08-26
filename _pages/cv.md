@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Dental Materials, Piracicaba Dental School, Brazil, 2016–2020
+* PhD in Dental Materials, Piracicaba Dental School, UNICAMP, Brazil, 2016–2020
 
-* MSc in Dental Materials, Piracicaba Dental School, Brazil, 2014–2016
+* MSc in Dental Materials, Piracicaba Dental School, , UNICAMP, Brazil, 2014–2016
 
 * DDS in Dentistry, Universidad Nacional Mayor de San Marcos, Peru, 1999–2005
 
@@ -41,14 +41,22 @@ Work experience
   * Universidad Nacional Mayor de San Marcos, Lima, Peru  
  
   
-Skills
+Research Lines
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Development of Alternative Antimicrobial Therapies  
+  * Photodynamic therapy for cariogenic bacteria using blue light  
+  * Cold atmospheric plasma applications for disinfection, adhesion enhancement, whitening, and surface conditioning  
+
+* Dental Polymerization  
+  * Polymerization kinetics and quality, including depth of cure and degree of conversion  
+  * Influence of light wavelengths, polywave systems, and shrinkage stress on restorative outcomes  
+
+* Adhesion Protocols  
+  * Adhesion to dental substrates, metallic surfaces, and 3D-printed materials  
+
+* Dental Materials and Emerging Technologies  
+  * Development and characterization of novel resin-based and CAD/CAM materials for restorative and biomedical applications
+
 
 Publications
 ======
