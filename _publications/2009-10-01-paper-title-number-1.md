@@ -8,8 +8,8 @@ date: August 2025
 venue: 'The Journal Prosthetic Dentistry'
 slidesurl:
 paperurl: 'https://www.thejpd.org/article/S0022-3913(25)00308-7/fulltext'
-bibtexurl: ''
-citation: 'Nima G, Ratzeburg FSG, Manrique Z, Mukai E, Bechtold TE, Gallardo YNR. Accuracy of additive and subtractive methods for interim tooth-supported restorations: An in vitro comparison of occlusal, axial, and intaglio surfaces. J Prosthet Dent. 2025 Aug;134(2):408.e1-408.e8. doi: 10.1016/j.prosdent.2025.04.006. Epub 2025 Apr 24. PMID: 40274499.'
+bibtexurl: 
+citation:
 ---
 **Abstract**  
 
