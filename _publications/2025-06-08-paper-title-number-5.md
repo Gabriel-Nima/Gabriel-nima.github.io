@@ -2,7 +2,7 @@
 title: "Effect of build orientation in gloss, roughness and color of 3D-printed resins for provisional indirect restorations"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'This study evaluated the impact of build orientation on the optical and surface properties of 3D-printed provisional resins. Findings showed that orientation had no effect on gloss, roughness, valley depth, or color stability, even after toothbrushing and UVB aging. However, all 3D-printed resins exhibited greater color changes than the control after aging, highlighting challenges in long-term esthetics.'
 date: July 2023
 venue:
