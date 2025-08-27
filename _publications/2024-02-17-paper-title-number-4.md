@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This scoping review highlights the antibacterial potential of flavonoids against oral pathogens related to caries and periodontal diseases. Most of the 79 included studies demonstrated bacteriostatic, bactericidal, and antibiofilm effects, particularly against Streptococcus mutans. These findings support the promising role of flavonoids in future dental materials and therapies.'
 date: February 2024
-venue:
+venue: 'Biofouling'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/08927014.2024.2321965'
 citation:
 ---
