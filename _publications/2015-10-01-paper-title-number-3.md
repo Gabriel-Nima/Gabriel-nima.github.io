@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Effect of experimental dentin etchants on dentin bond strength, metalloproteinase inhibition, and antibiofilm activity"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This study evaluated dentin microtensile bond strength, bonding interface, surface morphology, MMP activity, and antibacterial effects of three experimental etchants compared to 35% phosphoric acid. While phosphoric acid showed the highest bond strengths, some experimental etchants maintained stability over one year and inhibited MMP activity. All etchants demonstrated antibacterial activity against S. mutans, suggesting their potential as cavity disinfectants.'
+date: April 2024
+venue: 'Dental materials'
+slidesurl: 
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0109564124000393?via%3Dihub'
+citation: 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+
+*Objective:* this study evaluated dentin microtensile bond strength (µTBS) and failure modes (at 24 h and one year), bonding interface regarding hybridization, surface morphology regarding demineralization, in situ metalloproteinase (MMP) activity, and antibacterial effect of three dentin etchants compared to 35% phosphoric acid (PA). *Materials and Methods:* The Adper Single Bond 2 adhesive (3 M Oral Care) was applied on moist dentin etched with PA (control) or on air-dried dentin etched with 3% aluminum nitrate + 2% oxalic acid (AN), 6.8% ferric oxalate + 10% citric acid (FO), or 10% citric acid (CA). The µTBS test used 40 human teeth (n = 10). Failure modes and surface morphology were analyzed by scanning electron microscopy (n = 3), while bonding interface morphology and MMP activity were evaluated by laser scanning confocal microscopy (n = 3). Antibacterial activity was evaluated against S. Mutans biofilm by means of viable cells count (CFU/mL). *Results:* PA presented the highest bond strengths regardless of aging time. PA, AN, and CA showed stable bond strengths after one year of storage. Adhesive and mixed failures were predominant in all groups. Thin hybrid layers with short resin tags were observed for the experimental etchants. The AN-based etchant was able to inhibit MMP activity. All tested etchants presented antibacterial activity against S. Mutans biofilm. *Significance:* This study suggests different dentin etchants capable of inhibiting MMP activity while also acting as cavity disinfectants.
