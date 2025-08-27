@@ -42,27 +42,24 @@ Work experience
   * Universidad Nacional Mayor de San Marcos, Lima, Peru  
  
 
-  
 Research Lines
 ======
-* Alternative Antimicrobial Therapies  
-  * Development of innovative strategies for biofilm control and caries management, including photodynamic therapy (using blue light), cold plasma, and biofunctional dental materials
+* Alternative Antimicrobial Therapies and Emerging Dental Materials  
+  * Design of innovative strategies for biofilm control and caries management, including photodynamic therapy (blue light), cold plasma, and biofunctional dental materials.
+  * Development and characterization of novel restorative and biomedical materials.  
 
 * Dental Polymerization  
-  * Polymerization kinetics and quality, including depth of cure and degree of conversion  
-  * Influence of light wavelengths, polywave systems, and shrinkage stress on restorative outcomes  
+  * Investigation of polymerization kinetics and quality, with emphasis on depth of cure and degree of conversion.
+  * Analysis of the influence of light wavelengths, polywave systems, and polymerization shrinkage stress on restorative performance.  
 
-* Dental adhesion and bonding  
-  * Adhesion to dental substrates, metallic surfaces, and 3D-printed materials.
-  * Evaluation of experimental etchants to enhance adhesive durability.  
+* Dental Adhesion and Bonding  
+  * Evaluation of adhesion to dental substrates, metallic surfaces, and 3D-printed materials.
+  * Development of experimental etchants to improve long-term adhesive durability.  
 
 * CAD/CAM and 3D-Printed Dental Materials  
-  * Characterization of additive and subtractive restorative systems, including accuracy, wear resistance, and mechanical performance.  
-  * Development of adhesion protocols for 3D-printed restorative materials.
-    
-* Dental Materials and Emerging Technologies  
-  * Development and characterization of novel materials for restorative and biomedical applications.
-  * Performance evaluation of intraoral scanners, including trueness and precision
+  * Characterization of additive and subtractive restorative systems in terms of accuracy, wear resistance, and mechanical behavior.
+  * Establishment of adhesion protocols for 3D-printed restorative materials.
+  * Performance assessment of intraoral scanners, including trueness and precision.  
 
 
 Publications
@@ -83,6 +80,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
