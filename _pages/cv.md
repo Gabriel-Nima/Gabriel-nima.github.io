@@ -17,6 +17,7 @@ Education
 
 * DDS in Dentistry, Universidad Nacional Mayor de San Marcos, Peru, 1999–2005
 
+
 Work experience
 ======
 * 2023 – Present: Assistant Professor & Researcher  
@@ -40,22 +41,28 @@ Work experience
 * 2005 – 2008: Student Teaching Assistant (Undergraduate Courses)  
   * Universidad Nacional Mayor de San Marcos, Lima, Peru  
  
+
   
 Research Lines
 ======
-* Development of Alternative Antimicrobial Therapies  
-  * Photodynamic therapy for cariogenic bacteria using blue light  
-  * Cold atmospheric plasma applications for disinfection, adhesion enhancement, whitening, and surface conditioning  
+* Alternative Antimicrobial Therapies  
+  * Development of innovative strategies for biofilm control and caries management, including photodynamic therapy (using blue light), cold plasma, and biofunctional dental materials
 
 * Dental Polymerization  
   * Polymerization kinetics and quality, including depth of cure and degree of conversion  
   * Influence of light wavelengths, polywave systems, and shrinkage stress on restorative outcomes  
 
-* Adhesion Protocols  
-  * Adhesion to dental substrates, metallic surfaces, and 3D-printed materials  
+* Dental adhesion and bonding  
+  * Adhesion to dental substrates, metallic surfaces, and 3D-printed materials.
+  * Evaluation of experimental etchants to enhance adhesive durability.  
 
+* CAD/CAM and 3D-Printed Dental Materials  
+  * Characterization of additive and subtractive restorative systems, including accuracy, wear resistance, and mechanical performance.  
+  * Development of adhesion protocols for 3D-printed restorative materials.
+    
 * Dental Materials and Emerging Technologies  
-  * Development and characterization of novel resin-based and CAD/CAM materials for restorative and biomedical applications
+  * Development and characterization of novel materials for restorative and biomedical applications.
+  * Performance evaluation of intraoral scanners, including trueness and precision
 
 
 Publications
