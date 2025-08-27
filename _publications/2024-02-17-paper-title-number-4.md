@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "Flavonoids effects against bacteria associated to periodontal disease and dental caries: a scoping review"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This scoping review highlights the antibacterial potential of flavonoids against oral pathogens related to caries and periodontal diseases. Most of the 79 included studies demonstrated bacteriostatic, bactericidal, and antibiofilm effects, particularly against Streptococcus mutans. These findings support the promising role of flavonoids in future dental materials and therapies.'
+date: February 2024
+venue:
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/08927014.2024.2321965'
+citation:
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+
+This scoping review focused on exploring the efficacy of flavonoids against bacteria associated with dental caries and periodontal diseases. Inclusion criteria comprise studies investigating the antibacterial effects of flavonoids against bacteria linked to caries or periodontal diseases, both pure or diluted in vehicle forms. The search, conducted in August 2023, in databases including PubMed/MEDLINE, Scopus, Web of Science, Embase, LILACS, and Gray Literature. Out of the initial 1125 studies, 79 met the inclusion criteria, majority in vitro studies. Prominent flavonoids tested included epigallocatechin-gallate, apigenin, quercetin, and myricetin. Predominant findings consistently pointed to bacteriostatic, bactericidal, and antibiofilm activities. The study primarily investigated bacteria associated with dental caries, followed by periodontopathogens. A higher number of publications presented positive antibacterial results against Streptococcus mutans in comparison to Porphyromonas gingivalis. These encouraging findings underline the potential applicability of commercially available flavonoids in materials or therapies, underscoring the need for further exploration in this field.
