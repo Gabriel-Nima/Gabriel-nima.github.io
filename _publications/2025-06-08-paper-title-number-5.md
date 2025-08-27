@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Effect of build orientation in gloss, roughness and color of 3D-printed resins for provisional indirect restorations"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This study evaluated the impact of build orientation on the optical and surface properties of 3D-printed provisional resins. Findings showed that orientation had no effect on gloss, roughness, valley depth, or color stability, even after toothbrushing and UVB aging. However, all 3D-printed resins exhibited greater color changes than the control after aging, highlighting challenges in long-term esthetics.'
+date: July 2023
+venue:
+paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0109564123001100'
+citation:
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**Abstract**
+
+*Objectives:* The purpose of this study was to evaluate the effect of build orientation of 3D-printed provisional resins (3DRs) on gloss (Gs), surface roughness (Sa), maximum profile valley depth (Rv), and color difference (∆E00). *Methods:* PMMA CAD/CAM blocks (Vita Temp/Vita) were sectioned and served as a Control. Four 3DRs (Cosmos-SLA/Yller, Cosmos-DLP/Yller, PriZma-Bioprov/Makertech, Nanolab/Wilcos) were obtained as discs (15-mm diameter, 2.5-mm thickness) in three orientations (0°, 45°, and 90°) using different 3D printers (Form 2/Formlabs, P30/Straumann, Hunter/Flashforge, W3D/Wilcos, respectively). Samples were then cleaned with isopropyl alcohol prior to post-curing in specific post-curing units. Half of the samples’ surface was covered with an adhesive tape and submitted to 10,000 toothbrushing (TB) cycles. The Gs and Sa at the brushed and not brushed surfaces were evaluated with a glossmeter (Novo-curve) and a laser confocal microscope (OLS5000) (n = 10), which also obtained the Rv and 3D representative images of the interface between not brushed and brushed surfaces. Electron microscopy images of the surface of some samples was also performed (n = 3). On another set of samples (n = 5), the coordinates of luminosity and color were obtained with a spectrophotometer (Easyshade V) at baseline and after 16.7 h and 200 h of UVB aging, to calculate the ∆E00 using CIEDE:2000 formula. Additionally, 3DRs photoinitiators were identified using a minispectrometer (USB2000 +) (n = 5). Data of Gs and Sa were submitted to three-way-, Rv to two-way-, and ∆E00 to mixed-ANOVA tests, followed by Tukey's test (α = 0.05). For all variables, results from experimental groups were compared to control using Dunnett's test (α = 0.05). Student's t-test was used to compare the control at different TB cycles (Gs, Sa) or aging periods (∆E00) (α = 0.05). ***Results:*** Build orientation of 3DRs did not influence any of the variables studied. The 10,000 TB cycles resulted in a decrease in Gs and increase in Sa for all resins tested. The control showed higher Gs after 10,000 TB cycles than Cosmos-SLA and Nanolab resins. Compared to all 3DRs, Control presented lower ∆E00 after 200 h of UVB aging. All 3DRs presented higher ∆E00 than the clinically acceptable after 200 h of UVB aging. Lucirin® TPO was identified in all 3DRs, although PriZma might also present other photoinitiators and Nanolab might present Irgacure 369. *Significance:* Alterations in build orientation are very useful and frequently performed in the day-today of 3D-printing, thus its effect in the optical properties and in the topography of 3D-printed restorations is very relevant. For the evaluated 3D-printed provisional resins, build orientation did not influence any of the variables studied (Gs, Sa, Rv, and ∆E00), even after toothbrushing cycles and UVB aging.
+
+
