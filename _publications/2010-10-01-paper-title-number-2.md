@@ -8,7 +8,7 @@ date: October 2025
 venue: 'Journal of Dentistry'
 slidesurl:
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub'
-citation: 'Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, Nima G. Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods. J Dent. 2025 Oct;161:105972.'
+citation: 
 ---
 
 **Abstract:**
