@@ -3,7 +3,7 @@ title: "Effect of experimental dentin etchants on dentin bond strength, metallop
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This study evaluated dentin microtensile bond strength, bonding interface, surface morphology, MMP activity, and antibacterial effects of three experimental etchants compared to 35% phosphoric acid. While phosphoric acid showed the highest bond strengths, some experimental etchants maintained stability over one year and inhibited MMP activity. All etchants demonstrated antibacterial activity against S. mutans, suggesting their potential as cavity disinfectants.'
+excerpt:
 date: April 2024
 venue: 'Dental materials'
 slidesurl: 
