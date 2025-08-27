@@ -9,7 +9,7 @@
 
 main:
   - title: "About me"
-    url: /cv-json/
+    url: /cv/
   
   - title: "Publications"
     url: /publications/
