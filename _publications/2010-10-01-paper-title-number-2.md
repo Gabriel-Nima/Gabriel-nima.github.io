@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+slidesurl:
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+*Abstract:*
+Objective: The aim of this study was to evaluate the accuracy of fused deposition modeling (FDM) using a biodegradable polylactic acid (PLA) material in comparison to four resin-based additive manufacturing methods. Methods: A virtual maxillary arch was designed using a design software (DentalCAD, Exocad GmbH) and printed 10 times per group. Five additive manufacturing methods were used including: FDM, stereolithography (SLA), digital light processing (DLP), liquid crystal display (LCD), and PolyJet (PJ). Fifty printed casts were scanned using an intraoral scanner (Primescan, Dentsply Sirona), and STL files were compared to the original design using a metrology software (Geomagic Control X, 3D Systems). The 3D analysis was performed on the overall cast and in the anterior, right posterior and left posterior regions. Trueness was determined by calculating the mean root mean square (RMS) value, while precision was assessed using the standard deviation of the RMS values. Color maps were used for visual analysis. The accuracy data did not meet the assumptions of normality and homogeneity of variance; therefore, a generalized linear model (GLM) was applied as a robust parametric alternative, followed by Bonferroni-adjusted pairwise comparisons (p < 0.05). Results: The PJ technology demonstrated the highest trueness among all groups (57.35 ± 17.73 µm) across all 3 anatomic regions (p < 0.05). FDM and SLA showed comparable trueness. The lowest trueness was observed in the DLP (163.37 ± 56.06 µm) and LCD groups (151.27 ± 52.36 µm). In terms of precision, PJ demonstrated the highest values among all groups (54.92 ± 16.89 µm) across all 3 anatomic regions (p < 0.05), followed by SLA and FDM groups, with no statistically significant difference between them. The lowest precision was observed in the DLP and LCD groups. Color displacement maps revealed larger deviations in the occlusal areas for DLP, SLA, and LCD groups, characterized by both expansion and shrinkage. FDM group showed a distinct pattern of shrinkage in the anterior zone and expansion in occlusal areas. Conclusion: FDM with biodegradable PLA demonstrated accuracy comparable to PJ and SLA, highlighting its potential as a sustainable alternative for dental cast fabrication. Clinical Significance: Incorporating biodegradable materials into 3D printing offers a valuable step toward more eco-friendly and cost-effective dental additive manufacturing solutions.
