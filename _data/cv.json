@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Gabriel Nima B.",
+    "email": ,
+    "phone": ,
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "I am Gabriel Nima, a professor and researcher at Universidad de los Andes, Chile, working at the “Laboratorio de Biomateriales Dentales (BioMAD) within “Centro de Investigación e Innovación Biomédica” (CIIB), a biomedical research center. ",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Santiago",
+      "countryCode": "Chile",
       "region": ""
     },
     "profiles": [
