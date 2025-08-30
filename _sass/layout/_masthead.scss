@@ -72,9 +72,5 @@
 }
 
 .greedy-nav .masthead__menu-item--lg {
-  margin-right: auto; /* empuja los demás links a la derecha */
-}
-
-.greedy-nav .visible-links {
-  display: flex;
+  margin-right: auto !important;
 }
