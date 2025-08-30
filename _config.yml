@@ -358,13 +358,6 @@ compress_html:
 
 
 # Analytics
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5WWP7TEP1E"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+google_analytics: "G-5WWP7TEP1E"
 
-  gtag('config', 'G-5WWP7TEP1E');
-</script>
 
