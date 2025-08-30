@@ -442,12 +442,3 @@
     }
   }
 }
-
-/* --- Personalización: título a la izquierda, menús a la derecha --- */
-
-.greedy-nav .visible-links {
-  display: flex !important;
-  align-items: center;
-  flex-wrap: wrap;
-  padding-right: 3rem; /* espacio para el botón hamburguesa */
-}
