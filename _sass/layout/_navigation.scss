@@ -442,3 +442,8 @@
     }
   }
 }
+
+/* Alinear la barra de navegación con el contenido (según Issue #512) */
+.masthead__menu-item {
+  padding-left: 1.5em; /* ajusta el valor hasta que alinee con tu contenido */
+}
