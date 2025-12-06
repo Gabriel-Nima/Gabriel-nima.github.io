@@ -93,9 +93,7 @@
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [
+  "research lines": [
   {
     "name": "Alternative Antimicrobial Therapies and Emerging Dental Materials",
     "summary": "Design of innovative strategies for biofilm control and caries management, including blue-light photodynamic therapy, cold plasma, and biofunctional dental materials, as well as the development and characterization of novel restorative and biomedical materials."
@@ -113,7 +111,6 @@
     "summary": "Characterization of additive and subtractive restorative systems in terms of accuracy, wear resistance, and mechanical behavior; establishment of adhesion protocols for 3D-printed restorative materials; and performance assessment of intraoral scanners, including trueness and precision."
   }
 ],
-  "references": [],
   "publications": [
     {
       "name": "Paper Title Number 1",
