@@ -3,7 +3,7 @@
     "name": "Gabriel Nima B.",
     "email": ,
     "phone": ,
-    "website": "https://academicpages.github.io",
+    "website": "www.gabrielnima.com",
     "summary": "I am Gabriel Nima, a professor and researcher at Universidad de los Andes, Chile, working at the “Laboratorio de Biomateriales Dentales (BioMAD) within “Centro de Investigación e Innovación Biomédica” (CIIB), a biomedical research center. ",
     "location": {
       "address": "",
@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Piracicaba Dental School",
+      "area": "PhD in Dental Materials",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Piracicaba Dental School",
+      "area": "MSc in Dental Materials",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Universidad Nacional Mayor de San Marcos",
       "area": "B.S. in GitHub",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2005",
       "gpa": null,
       "courses": []
     }
