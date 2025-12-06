@@ -7,64 +7,64 @@
       "address": "",
       "postalCode": "",
       "city": "Santiago",
-      "countryCode": "Chile",
-
+      "countryCode": "Chile"
+    }
+  },
   "work": [
-  {
-    "company": "Universidad de los Andes (UANDES)",
-    "position": "Feb 2023 - Now: Assistant Professor",
-    "website": "https://www.uandes.cl",
-    "summary": "Faculty member and researcher at the Laboratory of Dental Biomaterials (BioMAD), part of the Centro de Investigación e Innovación Biomédica (CIIB).",
-    "highlights": [
-      "Faculty member in undergraduate and postgraduate dental programs, focusing on dental materials and restorative dentistry",
-      "Coordinate research projects focused on dental biomaterials and alternative antimicrobial therapies for dental biofilm control",
-      "Supervise and mentor undergraduate and postgraduate students in laboratory-based research projects"
-    ]
-  },
-  {
-    "company": "Universidad Norbert Wiener",
-    "position": "Dec 2021 - Feb 2023: Faculty Member",
-    "website": "https://www.uwiener.edu.pe",
-    "summary": "Faculty member, responsible for the undergraduate course in dental materials.",
-    "highlights": []
-  },
-  {
-    "company": "Universidad Científica del Sur",
-    "position": "Jan 2021 - Feb 2023: Assistant Professor",
-    "website": "https://www.cientifica.edu.pe",
-    "summary": "Assistant Professor with teaching responsibilities for undergraduate and graduate courses in dental research and dental materials.",
-    "highlights": []
-  },
- {
-  "company": "University of Oklahoma Health Sciences Center",
-  "position": "Nov 2011 - Apr: Visiting Researcher",
-  "website": "https://www.ouhsc.edu",
-  "summary": "Visiting researcher as part of a PhD exchange program, conducting a research project in dental biomaterials at the University of Oklahoma Health Sciences Center.",
-  "highlights": []
-},
-  {
-    "company": "Piracicaba Dental School – University of Campinas (UNICAMP)",
-    "position": " Jun 2016 - Jun 2018 Teaching Assistant (Cariology Courses)",
-    "website": "https://www.fop.unicamp.br",
-    "summary": "Teaching assistant in cariology courses, supporting laboratory activities, tutorials, and assessment of undergraduate students.",
-    "highlights": []
-  },
-  {
-    "company": "Private Dental Practice",
-    "position": "Jan 2007 - Feb 2023: General Dentist",
-    "website": "",
-    "summary": "Provided comprehensive dental care in private practice, with emphasis on restorative treatments and preventive dentistry in Lima, Peru.",
-    "highlights": []
-  },
-  {
-    "company": "Universidad Nacional Mayor de San Marcos",
-    "position": "Apr 2004 - Dec 2008: Student Teaching Assistant (Undergraduate Courses)",
-    "website": "https://www.unmsm.edu.pe",
-    "summary": "Student teaching assistant in undergraduate dental courses, supporting practical sessions and student guidance.",
-    "highlights": []
-  }
-]
-,
+    {
+      "company": "Universidad de los Andes (UANDES)",
+      "position": "Feb 2023 - Now: Assistant Professor",
+      "website": "https://www.uandes.cl",
+      "summary": "Faculty member and researcher at the Laboratory of Dental Biomaterials (BioMAD), part of the Centro de Investigación e Innovación Biomédica (CIIB).",
+      "highlights": [
+        "Faculty member in undergraduate and postgraduate dental programs, focusing on dental materials and restorative dentistry",
+        "Coordinate research projects focused on dental biomaterials and alternative antimicrobial therapies for dental biofilm control",
+        "Supervise and mentor undergraduate and postgraduate students in laboratory-based research projects"
+      ]
+    },
+    {
+      "company": "Universidad Norbert Wiener",
+      "position": "Dec 2021 - Feb 2023: Faculty Member",
+      "website": "https://www.uwiener.edu.pe",
+      "summary": "Faculty member, responsible for the undergraduate course in dental materials.",
+      "highlights": []
+    },
+    {
+      "company": "Universidad Científica del Sur",
+      "position": "Jan 2021 - Feb 2023: Assistant Professor",
+      "website": "https://www.cientifica.edu.pe",
+      "summary": "Assistant Professor with teaching responsibilities for undergraduate and graduate courses in dental research and dental materials.",
+      "highlights": []
+    },
+    {
+      "company": "University of Oklahoma Health Sciences Center",
+      "position": "Nov 2018 - Apr 2019: Visiting Researcher",
+      "website": "https://www.ouhsc.edu",
+      "summary": "Visiting researcher as part of a PhD exchange program, conducting a research project in dental biomaterials at the University of Oklahoma Health Sciences Center.",
+      "highlights": []
+    },
+    {
+      "company": "Piracicaba Dental School – University of Campinas (UNICAMP)",
+      "position": "Jun 2016 - Jun 2018: Teaching Assistant (Cariology Courses)",
+      "website": "https://www.fop.unicamp.br",
+      "summary": "Teaching assistant in cariology courses, supporting laboratory activities, tutorials, and assessment of undergraduate students.",
+      "highlights": []
+    },
+    {
+      "company": "Private Dental Practice",
+      "position": "Jan 2007 - Feb 2023: General Dentist",
+      "website": "",
+      "summary": "Provided comprehensive dental care in private practice, with emphasis on restorative treatments and preventive dentistry in Lima, Peru.",
+      "highlights": []
+    },
+    {
+      "company": "Universidad Nacional Mayor de San Marcos",
+      "position": "Apr 2004 - Dec 2008: Student Teaching Assistant (Undergraduate Courses)",
+      "website": "https://www.unmsm.edu.pe",
+      "summary": "Student teaching assistant in undergraduate dental courses, supporting practical sessions and student guidance.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "Piracicaba Dental School – University of Campinas (UNICAMP), Brazil",
@@ -157,4 +157,5 @@
       "location": "Los Angeles, CA, USA",
       "description": ""
     }
-  ],
+  ]
+}
