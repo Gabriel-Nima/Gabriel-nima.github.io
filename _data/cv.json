@@ -9,8 +9,7 @@
       "address": "",
       "postalCode": "",
       "city": "Santiago",
-      "countryCode": "CL",
-      "region": "",
+      "countryCode": "Chile",
     },
     "profiles": [
       {
@@ -20,8 +19,8 @@
       },
       {
         "network": "ORCID",
-        "username": "0000-0002-3653-3921",
-        "url": "https://orcid.org/0000-0002-3653-3921"
+        "username": "Gabriel Nima",
+        "url": "https://orcid.org/0000-0002-0389-4332"
       },
       {
         "network": "ResearchGate",
