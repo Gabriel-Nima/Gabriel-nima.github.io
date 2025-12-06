@@ -95,7 +95,25 @@
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+  {
+    "name": "Alternative Antimicrobial Therapies and Emerging Dental Materials",
+    "summary": "Design of innovative strategies for biofilm control and caries management, including blue-light photodynamic therapy, cold plasma, and biofunctional dental materials, as well as the development and characterization of novel restorative and biomedical materials."
+  },
+  {
+    "name": "Dental Polymerization",
+    "summary": "Investigation of polymerization kinetics and quality, with emphasis on depth of cure and degree of conversion, and analysis of the influence of light wavelengths, polywave systems, and polymerization shrinkage stress on restorative performance."
+  },
+  {
+    "name": "Dental Adhesion and Bonding",
+    "summary": "Evaluation of adhesion to dental substrates, metallic surfaces, and 3D-printed materials, and development of experimental etchants to improve long-term adhesive durability."
+  },
+  {
+    "name": "CAD/CAM and 3D-Printed Dental Materials",
+    "summary": "Characterization of additive and subtractive restorative systems in terms of accuracy, wear resistance, and mechanical behavior; establishment of adhesion protocols for 3D-printed restorative materials; and performance assessment of intraoral scanners, including trueness and precision."
+  }
+]
+
   "references": [],
   "publications": [
     {
