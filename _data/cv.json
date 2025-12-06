@@ -1,33 +1,15 @@
 {
   "basics": {
     "name": "Gabriel Nima B.",
-    "website": "https://www.gabrielnima.com",
+    "website": "",
     "summary": "Professor and researcher in Dental Materials at Universidad de los Andes, Chile. I work at the Laboratory of Dental Biomaterials (BioMAD) within the Centro de Investigación e Innovación Biomédica (CIIB), with a research focus on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces to dental tissues.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Santiago",
       "countryCode": "Chile",
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "Gabriel Nima",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "Gabriel Nima",
-        "url": "https://orcid.org/0000-0002-0389-4332"
-      },
-      {
-        "network": "ResearchGate",
-        "username": "Gabriel Nima",
-        "url": "https://www.researchgate.net/profile/Gabriel-Nima-B?ev=hdr_xprf"
-      }
-    ]
-  },
- "work": [
+
+  "work": [
   {
     "company": "Universidad de los Andes (UANDES)",
     "position": "Feb 2023 - Now: Assistant Professor",
@@ -176,29 +158,3 @@
       "description": ""
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
-}
