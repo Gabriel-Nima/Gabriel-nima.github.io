@@ -1,76 +1,75 @@
 {
   "basics": {
     "name": "Gabriel Nima B.",
-    "email": ,
-    "phone": ,
-    "website": "www.gabrielnima.com",
-    "summary": "Professor and researcher in Dental Materials at Universidad de los Andes, Chile. I work at the Laboratory of Dental Biomaterials (BioMAD) within the Centro de Investigación e Innovación Biomédica (CIIB), focusing on advanced biomaterials, photodynamic therapy, 3D printing applications in dentistry, and adhesion to dental tissues.",
+    "email": "gabrielnima@gmail.com",
+    "phone": "",
+    "website": "https://www.gabrielnima.com",
+    "summary": "Professor and researcher in Dental Materials at Universidad de los Andes, Chile. I work at the Laboratory of Dental Biomaterials (BioMAD) within the Centro de Investigación e Innovación Biomédica (CIIB), with a research focus on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces to dental tissues.",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Santiago",
-      "countryCode": "Chile",
-      "region": ""
+      "countryCode": "CL",
+      "region": "",
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Gabriel Nima",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0002-3653-3921",
+        "url": "https://orcid.org/0000-0002-3653-3921"
       },
       {
-        "network": "researchgate",
+        "network": "ResearchGate",
         "username": "Gabriel Nima",
         "url": "https://www.researchgate.net/profile/Gabriel-Nima-B?ev=hdr_xprf"
       }
     ]
   },
   "work": [
-  {
-    "company": "Universidad de los Andes (UANDES)",
-    "position": "Assistant Professor",
-    "website": "https://www.uandes.cl",
-    "startDate": "2024-01",
-    "endDate": "",
-    "summary": "Faculty member and researcher at the Laboratory of Dental Biomaterials (BioMAD), part of the Centro de Investigación e Innovación Biomédica (CIIB). My work focuses on photodynamic therapy, dental adhesive interfaces, 3D printing applications in dentistry, and advanced biomaterials development.",
-   "highlights": [
-  "Faculty member in undergraduate and postgraduate dental programs",
-  "Coordinate research projects focused on dental biomaterials and alternative antimicrobial therapies for dental biofilm control",
-  "Supervise and mentor undergraduate and postgraduate students in laboratory-based research projects"
-]
-
-  },
-  {,
+    {
+      "company": "Universidad de los Andes (UANDES)",
+      "position": "Assistant Professor",
+      "website": "https://www.uandes.cl",
+      "startDate": "2024-01",
+      "endDate": "",
+      "summary": "Faculty member and researcher at the Laboratory of Dental Biomaterials (BioMAD), part of the Centro de Investigación e Innovación Biomédica (CIIB). My work focuses on photodynamic therapy, dental adhesive interfaces, 3D printing applications in dentistry, and advanced biomaterials development.",
+      "highlights": [
+        "Faculty member in undergraduate and postgraduate dental programs, focusing on dental materials and restorative dentistry",
+        "Coordinate multiple research projects focused on dental biomaterials and alternative antimicrobial therapies for biofilm control and caries management",
+        "Supervise and mentor undergraduate and postgraduate students in laboratory-based research projects"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "Piracicaba Dental School",
+      "institution": "Piracicaba Dental School – University of Campinas (UNICAMP)",
       "area": "PhD in Dental Materials",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2020",
+      "studyType": "Doctor of Philosophy",
+      "startDate": "2016-01",
+      "endDate": "2020-12",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "Piracicaba Dental School",
+      "institution": "Piracicaba Dental School – University of Campinas (UNICAMP)",
       "area": "MSc in Dental Materials",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2016",
+      "studyType": "Master of Science",
+      "startDate": "2014-01",
+      "endDate": "2016-12",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "Universidad Nacional Mayor de San Marcos",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2005",
+      "area": "DDS – Dental Surgeon",
+      "studyType": "Bachelor of Dental Surgery",
+      "startDate": "2000-01",
+      "endDate": "2005-12",
       "gpa": null,
       "courses": []
     }
