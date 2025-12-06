@@ -1,8 +1,6 @@
 {
   "basics": {
     "name": "Gabriel Nima B.",
-    "email": "gabrielnima@gmail.com",
-    "phone": "",
     "website": "https://www.gabrielnima.com",
     "summary": "Professor and researcher in Dental Materials at Universidad de los Andes, Chile. I work at the Laboratory of Dental Biomaterials (BioMAD) within the Centro de Investigación e Innovación Biomédica (CIIB), with a research focus on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces to dental tissues.",
     "location": {
@@ -34,7 +32,7 @@
       "company": "Universidad de los Andes (UANDES)",
       "position": "Assistant Professor",
       "website": "https://www.uandes.cl",
-      "startDate": "2024-01",
+      "startDate": "2023-03",
       "endDate": "",
       "summary": "Faculty member and researcher at the Laboratory of Dental Biomaterials (BioMAD), part of the Centro de Investigación e Innovación Biomédica (CIIB). My work focuses on photodynamic therapy, dental adhesive interfaces, 3D printing applications in dentistry, and advanced biomaterials development.",
       "highlights": [
@@ -49,8 +47,8 @@
       "institution": "Piracicaba Dental School – University of Campinas (UNICAMP)",
       "area": "PhD in Dental Materials",
       "studyType": "Doctor of Philosophy",
-      "startDate": "2016-01",
-      "endDate": "2020-12",
+      "startDate": "2016-03",
+      "endDate": "2020-02",
       "gpa": null,
       "courses": []
     },
@@ -58,8 +56,8 @@
       "institution": "Piracicaba Dental School – University of Campinas (UNICAMP)",
       "area": "MSc in Dental Materials",
       "studyType": "Master of Science",
-      "startDate": "2014-01",
-      "endDate": "2016-12",
+      "startDate": "2014-03",
+      "endDate": "2016-02",
       "gpa": null,
       "courses": []
     },
@@ -67,8 +65,8 @@
       "institution": "Universidad Nacional Mayor de San Marcos",
       "area": "DDS – Dental Surgeon",
       "studyType": "Bachelor of Dental Surgery",
-      "startDate": "2000-01",
-      "endDate": "2005-12",
+      "startDate": "1999-04",
+      "endDate": "2005-04",
       "gpa": null,
       "courses": []
     }
