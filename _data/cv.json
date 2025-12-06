@@ -10,7 +10,7 @@
       "postalCode": "",
       "city": "Santiago",
       "countryCode": "Chile",
-      "region": ""
+      "region": "Metropolitan region"
     },
     "profiles": [
       {
@@ -24,8 +24,8 @@
         "url": "http://orcid.org/yourorcidurl"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
+        "network": "researchgate",
+        "username": "Gabriel Nima",
         "url": "https://www.researchgate.net/profile/Gabriel-Nima-B?ev=hdr_xprf"
       }
     ]
