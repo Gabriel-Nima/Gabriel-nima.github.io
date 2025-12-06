@@ -93,7 +93,7 @@
       "courses": []
     }
   ],
-  "research lines": [
+  "interest": [
   {
     "name": "Alternative Antimicrobial Therapies and Emerging Dental Materials",
     "summary": "Design of innovative strategies for biofilm control and caries management, including blue-light photodynamic therapy, cold plasma, and biofunctional dental materials, as well as the development and characterization of novel restorative and biomedical materials."
@@ -112,33 +112,152 @@
   }
 ],
   "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ]
+  {
+    "name": "Effect of experimental dentin etchants on dentin bond strength, metalloproteinase inhibition, and antibiofilm activity",
+    "publisher": "Dental Materials",
+    "releaseDate": "2024-04-01",
+    "website": "https://www.sciencedirect.com/science/article/abs/pii/S0109564124000393",
+    "summary": ""
+  },
+  {
+    "name": "Effect of build orientation in gloss, roughness and color of 3D-printed resins for provisional indirect restorations",
+    "publisher": "Dental Materials",
+    "releaseDate": "2023-07-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Effect of Tooth Brushing Cycles and Dentifrice Fluoride Concentration on a Glazed CAD/CAM Ceramic",
+    "publisher": "The International Journal of Prosthodontics",
+    "releaseDate": "2023-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Color alterations, flexural strength, and microhardness of 3D printed resins for fixed provisional restoration using different post-curing times",
+    "publisher": "Dental Materials",
+    "releaseDate": "2022-08-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Effect of build orientation in accuracy, flexural modulus, flexural strength, and microhardness of 3D-printed resins for provisional restorations",
+    "publisher": "Journal of the Mechanical Behavior of Biomedical Materials",
+    "releaseDate": "2022-09-29",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Polymerization Kinetics, Shrinkage Stress, and Bond Strength to Dentin of Conventional and Self-adhesive Resin Cements",
+    "publisher": "Journal of Adhesive Dentistry",
+    "releaseDate": "2022-09-28",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Antibacterial efficacy of non-thermal atmospheric plasma against Streptococcus mutans biofilm grown on the surfaces of restorative resin composites",
+    "publisher": "Scientific Reports",
+    "releaseDate": "2021-12-10",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Effect of toothbrushing on the surface of enamel, direct and indirect CAD/CAM restorative materials",
+    "publisher": "The International Journal of Prosthodontics",
+    "releaseDate": "2021-07-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Influence of beam homogenization on bond strength of adhesives to dentin",
+    "publisher": "Dental Materials",
+    "releaseDate": "2021-02-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Limited etching time increases the longevity of the self-adhesive resin cements adhesion to enamel",
+    "publisher": "Operative Dentistry",
+    "releaseDate": "2021-09-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Microhardness homogeneity of RBCs light-cured with a multiple-peak LED and surface characterization after wear",
+    "publisher": "Brazilian Dental Journal",
+    "releaseDate": "2021-05-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Photodynamic inactivation of Streptococcus mutans by curcumin in combination with EDTA",
+    "publisher": "Dental Materials",
+    "releaseDate": "2021-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Polymerization Shrinkage Stress, Internal Adaptation, and Dentin Bond Strength of Bulk-fill Restorative Materials",
+    "publisher": "International Journal of Adhesion and Adhesives",
+    "releaseDate": "2021-12-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Adhesion, mechanical properties and microstructure of resin matrix CAD-CAM ceramics",
+    "publisher": "Journal of Adhesive Dentistry",
+    "releaseDate": "2020-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Changes in enamel after bleaching pre-treatment with non-thermal atmospheric plasma",
+    "publisher": "Clinical Plasma Medicine",
+    "releaseDate": "2020-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Effects of sodium hypochlorite as dentin deproteinizing agent and aging media on bond strength of two conventional adhesives",
+    "publisher": "Microscopy Research and Technique",
+    "releaseDate": "2019-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Influence of desensitizers agents on the dentin bond strength after one-year water storage",
+    "publisher": "Brazilian Journal of Oral Sciences",
+    "releaseDate": "2016-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Influence of Multiple Peak Light-emitting-diode Curing Unit Beam Homogenization Tips on Microhardness of Resin Composites",
+    "publisher": "Operative Dentistry",
+    "releaseDate": "2020-03-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Multiple-peak and single-peak dental curing lights comparison on the wear resistance of bulk-fill composites",
+    "publisher": "Brazilian Oral Research",
+    "releaseDate": "2018-12-17",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Stability of the Light Output, Oral Cavity Tip Accessibility in Posterior Region and Emission Spectrum of Light-Curing Units",
+    "publisher": "Operative Dentistry",
+    "releaseDate": "2018-01-01",
+    "website": "",
+    "summary": ""
+  },
+  {
+    "name": "Effect of Metal Primers on Bond Strength of a Composite Resin to Nickel-Chrome Metal Alloy",
+    "publisher": "Brazilian Dental Journal",
+    "releaseDate": "2017-01-01",
+    "website": "",
+    "summary": ""
+  }
+]
 }
