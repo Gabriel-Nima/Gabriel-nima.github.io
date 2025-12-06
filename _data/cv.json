@@ -30,7 +30,22 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+  {
+    "company": "Universidad de los Andes (UANDES)",
+    "position": "Assistant Professor",
+    "website": "https://www.uandes.cl",
+    "startDate": "2024-01",
+    "endDate": "",
+    "summary": "Faculty member and researcher at the Laboratory of Dental Biomaterials (BioMAD), part of the Centro de Investigación e Innovación Biomédica (CIIB). My work focuses on photodynamic therapy, dental adhesive interfaces, 3D printing applications in dentistry, and advanced biomaterials development.",
+   "highlights": [
+  "Faculty member in undergraduate and postgraduate dental programs",
+  "Coordinate research projects focused on dental biomaterials and alternative antimicrobial therapies for dental biofilm control",
+  "Supervise and mentor undergraduate and postgraduate students in laboratory-based research projects"
+]
+
+  },
+  {,
   "education": [
     {
       "institution": "Piracicaba Dental School",
