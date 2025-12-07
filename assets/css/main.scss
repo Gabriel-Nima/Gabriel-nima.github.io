@@ -41,11 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Right-align main navigation menu */
-.greedy-nav .visible-links {
-  margin-left: auto !important;
+/* Keep site title on the left and move menu items to the right */
+.greedy-nav {
+  display: flex;
+  align-items: center;
 }
 
-.greedy-nav .visible-links li {
-  text-align: right;
+/* El título (Gabriel Nima) se queda a la izquierda */
+.greedy-nav .site-title {
+  margin-right: auto;
 }
+
+/* Los ítems del menú (Publications, Teaching, CV, etc.) se mueven a la derecha */
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
+
