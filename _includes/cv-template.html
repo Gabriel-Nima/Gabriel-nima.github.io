@@ -278,8 +278,11 @@
       {% for interest in cv.interests %}
       <li class="cv-item">
         <div class="cv-item-content">
-          <div class="cv-item-title">{{ interest.name }}</div>
-          {% if interest.keywords.size > 0 %}
+         <div class="cv-item-title">{{ interest.name }}</div>
+          {% if interest.summary %}
+          <div class="cv-item-detail">{{ interest.summary }}</div>
+          {% endif %}
+          {% if interest.keywords %}
           <div class="cv-item-detail">{{ interest.keywords | join: ", " }}</div>
           {% endif %}
         </div>
