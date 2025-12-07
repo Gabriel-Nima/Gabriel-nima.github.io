@@ -41,13 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Keep first nav item (name) on the left and push the rest to the right */
-.greedy-nav .visible-links {
-  display: flex;
-  width: 95%;
-}
-
-/* First menu item: "Gabriel Nima" stays on the left */
-.greedy-nav .visible-links li:first-child {
-  margin-right: auto;
-}
