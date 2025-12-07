@@ -41,19 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Keep site title on the left and move menu items to the right */
-.greedy-nav {
+/* Keep first nav item (name) on the left and push the rest to the right */
+.greedy-nav .visible-links {
   display: flex;
-  align-items: center;
+  width: 100%;
 }
 
-/* El título (Gabriel Nima) se queda a la izquierda */
-.greedy-nav .site-title {
+/* First menu item: "Gabriel Nima" stays on the left */
+.greedy-nav .visible-links li:first-child {
   margin-right: auto;
 }
-
-/* Los ítems del menú (Publications, Teaching, CV, etc.) se mueven a la derecha */
-.greedy-nav .visible-links {
-  margin-left: auto;
-}
-
