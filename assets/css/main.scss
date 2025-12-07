@@ -41,3 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* Right-align main navigation menu */
+.greedy-nav .visible-links {
+  margin-left: auto !important;
+}
+
+.greedy-nav .visible-links li {
+  text-align: right;
+}
