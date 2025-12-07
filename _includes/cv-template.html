@@ -144,6 +144,28 @@
     </div>
   </div>
   {% endif %}
+
+    {% if cv.interests.size > 0 %}
+  <!-- Interests -->
+  <div class="cv-section">
+    <h2>Research Lines</h2>
+    <ul class="cv-list">
+      {% for interest in cv.interests %}
+      <li class="cv-item">
+        <div class="cv-item-content">
+         <div class="cv-item-title">{{ interest.name }}</div>
+          {% if interest.summary %}
+          <div class="cv-item-detail">{{ interest.summary }}</div>
+          {% endif %}
+          {% if interest.keywords %}
+          <div class="cv-item-detail">{{ interest.keywords | join: ", " }}</div>
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   
   {% if cv.publications.size > 0 %}
   <!-- Publications -->
@@ -269,29 +291,7 @@
     </ul>
   </div>
   {% endif %}
-  
-  {% if cv.interests.size > 0 %}
-  <!-- Interests -->
-  <div class="cv-section">
-    <h2>Research Lines</h2>
-    <ul class="cv-list">
-      {% for interest in cv.interests %}
-      <li class="cv-item">
-        <div class="cv-item-content">
-         <div class="cv-item-title">{{ interest.name }}</div>
-          {% if interest.summary %}
-          <div class="cv-item-detail">{{ interest.summary }}</div>
-          {% endif %}
-          {% if interest.keywords %}
-          <div class="cv-item-detail">{{ interest.keywords | join: ", " }}</div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-  
+   
   {% if cv.references.size > 0 %}
   <!-- References -->
   <div class="cv-section">
