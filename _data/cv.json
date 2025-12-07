@@ -108,7 +108,28 @@
   }
 ],
   "publications": [
-  {
+ {
+  "name": "Effect of experimental dentin etchants on dentin bond strength, metalloproteinase inhibition, and antibiofilm activity",
+  "publisher": "Dental Materials",
+  "releaseDate": "2025-02-15",
+  "website": "https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub",
+  "summary": "Evaluates the effects of experimental dentin etchants on bond strength, inhibition of metalloproteinases, and antibacterial activity against Streptococcus mutans biofilm."
+},
+{
+  "name": "Accuracy of additive and subtractive methods for interim tooth-supported restorations: An in vitro comparison of occlusal, axial, and intaglio surfaces",
+  "publisher": "The Journal of Prosthetic Dentistry",
+  "releaseDate": "2025-02-01",
+  "website": "https://www.thejpd.org/article/S0022-3913(25)00308-7/fulltext",
+  "summary": "Compares the accuracy of additive (3D printing) and subtractive (milling) manufacturing methods for interim tooth-supported restorations."
+},
+{
+  "name": "Flavonoids effects against bacteria associated to periodontal disease and dental caries: A scoping review",
+  "publisher": "Biofouling",
+  "releaseDate": "2024-11-01",
+  "website": "https://www.tandfonline.com/doi/10.1080/08927014.2024.2321965",
+  "summary": "Scoping review of the antibacterial effects of flavonoids against bacteria related to periodontal disease and dental caries."
+}
+{
     "name": "Effect of experimental dentin etchants on dentin bond strength, metalloproteinase inhibition, and antibiofilm activity",
     "publisher": "Dental Materials",
     "releaseDate": "2024-04-01",
