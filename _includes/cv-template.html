@@ -60,13 +60,13 @@
     {% endif %}
   </div>
   
-  {% if cv.basics.summary %}
+ {% if cv.basics.summary %}
   <!-- Summary -->
   <div class="cv-section">
     <h2>Summary</h2>
-    <p class="cv-summary">{{ cv.basics.summary }}</p>
+    <p style="text-align: justify;">{{ cv.basics.summary }}</p>
   </div>
-  {% endif %}
+{% endif %}
   
   {% if cv.education.size > 0 %}
   <!-- Education -->
