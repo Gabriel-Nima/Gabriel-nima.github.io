@@ -20,7 +20,7 @@ More details about my academic background, research activities, and publications
 - Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, **Nima G**. *Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods.* J Dent. 2025 Oct;161:105972.  
   [View article](https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub)
 
-## Acepted papers
+## Accepted papers
 
 - Silva SE, Miguel SY, Olaechea RM, **Nima G**. *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de Streptococcus mutans.* Rev Cient Odontol.
 - Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study. Rev Cient Odontol.
