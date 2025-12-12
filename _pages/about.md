@@ -16,6 +16,10 @@ More details about my academic background, research activities, and publications
 ## Latest Publications
 
 - Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025 Nov 21;36:e256534. [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
+- Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, **Nima G**. Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods. J Dent. 2025 Oct;161:105972. doi: 10.1016/j.jdent.2025.105972. Epub 2025 Jul 10. PMID: 40651766. [View article](https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub)
+  - Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025 Nov 21;36:e256534.  
+  [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
+
 
 
 ## BioMAD – Dental Biomaterials Laboratory
