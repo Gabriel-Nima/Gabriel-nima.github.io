@@ -8,19 +8,15 @@ redirect_from:
 ---
 
 I am an Assistant Professor (Profesor Asistente Ordinario) at Universidad de los Andes, Chile, and a researcher at the Dental Biomaterials Laboratory (BioMaD), within the Centro de Investigación e Innovación Biomédica (CiiB) of the same institution. I hold both a Master’s degree and a PhD in Dental Materials from Piracicaba Dental School at the University of Campinas (FOP-UNICAMP), Brazil.
+
 My research focuses on dental biomaterials, alternative antimicrobial therapies, and digital dentistry, with particular emphasis on antimicrobial photodynamic therapy, adhesion to dental tissues, polymerization behavior, and 3D-printed restorative materials. I teach at undergraduate and postgraduate programs and collaborate with research groups in Chile, Peru, Brazil, and the United States.
+
 More details about my academic background, research activities, and publications are available throughout this website.
 
-## Current Focus
+## Latest Publications
 
-My academic and research activities combine laboratory experimentation, collaborative projects, and the translation of scientific knowledge into clinically relevant applications. My current work focuses on:
+- Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025 Nov 21;36:e256534. [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
 
-- Development and characterization of advanced dental biomaterials  
-- Alternative antimicrobial therapies, including photodynamic inactivation and biofilm control strategies  
-- Evaluation of CAD/CAM and 3D-printed materials for restorative dentistry  
-- Optimization of polymerization, adhesion, and long-term durability of dental restorations  
-
-These activities are carried out in collaboration with research groups in Chile, Peru, Brazil, and the United States.
 
 ## BioMAD – Dental Biomaterials Laboratory
 
