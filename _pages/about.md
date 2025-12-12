@@ -23,7 +23,7 @@ More details about my academic background, research activities, and publications
 ## Accepted papers
 
 - Silva SE, Miguel SY, Olaechea RM, **Nima G**. *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de Streptococcus mutans.* Rev Cient Odontol.
-- Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study. Rev Cient Odontol.
+- Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study.* Rev Cient Odontol.
   
 ## BioMaD – Dental Biomaterials Laboratory
 
