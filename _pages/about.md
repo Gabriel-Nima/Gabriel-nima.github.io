@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (Profesor Asistente Ordinario) at Universidad de los Andes, Chile, and a researcher at the Dental Biomaterials Laboratory (BioMaD), within the Centro de Investigación e Innovación Biomédica (CiiB) of the same institution. I hold both a Master’s degree and a PhD in Dental Materials from Piracicaba Dental School at the University of Campinas (FOP-UNICAMP), Brazil.␠␠
-My research focuses on dental biomaterials, alternative antimicrobial therapies, and digital dentistry, with particular emphasis on antimicrobial photodynamic therapy, adhesion to dental tissues, polymerization behavior, and 3D-printed restorative materials. I teach at undergraduate and postgraduate programs and collaborate with research groups in Chile, Peru, Brazil, and the United States.␠␠
+I am an Assistant Professor (Profesor Asistente Ordinario) at Universidad de los Andes, Chile, and a researcher at the Dental Biomaterials Laboratory (BioMaD), within the Centro de Investigación e Innovación Biomédica (CiiB) of the same institution. I hold both a Master’s degree and a PhD in Dental Materials from Piracicaba Dental School at the University of Campinas (FOP-UNICAMP), Brazil.  
+My research focuses on dental biomaterials, alternative antimicrobial therapies, and digital dentistry, with particular emphasis on antimicrobial photodynamic therapy, adhesion to dental tissues, polymerization behavior, and 3D-printed restorative materials. I teach at undergraduate and postgraduate programs and collaborate with research groups in Chile, Peru, Brazil, and the United States.  
 More details about my academic background, research activities, and publications are available throughout this website.
 
 ## Latest Publications
