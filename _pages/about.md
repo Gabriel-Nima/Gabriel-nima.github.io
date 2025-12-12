@@ -24,22 +24,4 @@ More details about my academic background, research activities, and publications
 
 - Silva SE, Miguel SY, Olaechea RM, **Nima G**. *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de Streptococcus mutans.* Rev Cient Odontol.
 - Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study.* Rev Cient Odontol.
-  
-## BioMaD – Dental Biomaterials Laboratory
-
-BioMAD is dedicated to the design, characterization, and validation of dental biomaterials. The laboratory aims to bridge basic science and clinical challenges through:
-
-- Mechanical, chemical, and optical characterization of materials  
-- Microbiological models for biofilm evaluation  
-- Assessment of emerging technologies in digital dentistry  
-
-A dedicated laboratory page with ongoing projects and infrastructure details will be available soon.
-
-## Collaboration and Opportunities
-
-I actively collaborate with national and international researchers and welcome opportunities related to joint research projects, student supervision, technological development, and scientific consulting.
-
-## Contact
-
-For academic inquiries, research collaborations, or project discussions, please feel free to contact me via email or through my institutional profile.
 
