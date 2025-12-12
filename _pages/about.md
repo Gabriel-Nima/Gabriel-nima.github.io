@@ -20,7 +20,7 @@ More details about my academic background, research activities, and publications
 - Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, **Nima G**. *Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods.* J Dent. 2025 Oct;161:105972.  
   [View article](https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub)
 
-## BioMAD – Dental Biomaterials Laboratory
+## BioMaD – Dental Biomaterials Laboratory
 
 BioMAD is dedicated to the design, characterization, and validation of dental biomaterials. The laboratory aims to bridge basic science and clinical challenges through:
 
