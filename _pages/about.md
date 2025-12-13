@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify; text-justify: inter-word;">
+<div style="text-align: left;">
   I am an Assistant Professor (Profesor Asistente Ordinario) at Universidad de los Andes, Chile,
   and a researcher at the Dental Biomaterials Laboratory (BioMaD), within the
   <a href="https://www.uandes.cl/centros/ciib/" target="_blank">
