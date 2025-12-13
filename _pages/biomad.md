@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "BioMaD"
+title: "Dental Biomaterials Laboratory (BioMaD)"
 permalink: /biomad/
 author_profile: true
 ---
-BioMaD – Dental Biomaterials Laboratory
-======
-
 The Dental Biomaterials Laboratory (BioMaD) is part of the Centro de Investigación e Innovación Biomédica (CiiB) at Universidad de los Andes, Chile. The group focuses on the development and evaluation of dental biomaterials and emerging technologies in dentistry.  
 Our research activities include:
 - Alternative antimicrobial therapies and photodynamic therapy
