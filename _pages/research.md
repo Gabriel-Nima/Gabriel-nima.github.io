@@ -22,13 +22,33 @@ Current Students
 **PhD Advisees/Co-advisees**
 1. **Macarena O. Aburto Martinez, DDS.**  
 PhD Program in Dental Science - Universidad de los Andes, Chile.  
-Research topic: Dental adhesion and treatment of dentin hypersensitivity.
+Research area: Dental adhesion and biomaterial-based management of dentin hypersensitivity, and surface treatment of 3D-printed dental materials.
 
 **Undergraduated Advisees/Co-advisees**
+1. **Felipe A. Tapia Mayorga.**  
+Research area:  FDM 3D printing in dentistry.  
+2. **Martín I. Carvajal Vives.**  
+Research area: FDM 3D printing in dentistry.  
+4. **Camila Contreras García.**  
+Research area: 3D-printed dental restorative materials.  
+6. **Sofía P. Mucherl Calatayud.**  
+Research area: 3D-printed dental restorative materials.  
+8. **Constanza B. Beltrán Castro.**  
+Research area: Surface treatment of 3D-printed dental materials.  
+10. **Josefina Serrano Morales.**  
+Research area: Surface treatment of 3D-printed dental materials.  
+12. **Valentina I. Blanco Solari.**  
+Research area: Dental polymerization, 3D-printed dental restorative materials, and surface treatment of 3D-printed dental materials.  
+14. **Ignacia A. Salas Ilabaca.**  
+Research area: Dental polymerization and 3D-printed dental restorative materials.  
 
 Former students
 ======
 **Undergraduated Advisees/Co-advisees**  
+1. **Juan Pablo Rojas Blanco**  
+Bachelor’s degree in Dentistry (2025) - Universidad de los Andes, Chile.  
+*Evaluación de diferentes tratamientos de superficie para la cementación de restauraciones de larga duración impresas en 3d: test de microcizallamiento.*   
+
 1. **Stephanie Esther Silva Urco** and **Sayuri Yasira Miguel Soto**  
 Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Peru.  
 *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de streptococcus mutans*  
