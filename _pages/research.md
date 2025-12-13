@@ -4,7 +4,8 @@ title: "Research Group"
 permalink: /research/
 author_profile: true
 ---
-## BioMaD – Dental Biomaterials Laboratory
+BioMaD – Dental Biomaterials Laboratory
+======
 
 The Dental Biomaterials Laboratory (BioMaD) is part of the Centro de Investigación e Innovación Biomédica (CiiB) at Universidad de los Andes, Chile. The group focuses on the development and evaluation of dental biomaterials and emerging technologies in dentistry.  
 Our research activities include:
@@ -13,7 +14,8 @@ Our research activities include:
 - Polymerization and light-curing technologies
 - CAD/CAM and 3D-printed dental materials
 
-## Team
+Current Students
+======
 <figure style="margin: 0 auto; text-align: center;">
   <img src="/images/Research group.jpeg"
        alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD"
@@ -22,12 +24,10 @@ Our research activities include:
     Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD.
   </p>
 </figure>
-
-
-
-
-
-
-- **Current Group Members**
   
-- **Graduated students**
+Former students
+======
+**Undergraduated Advisees/Co-advisees**
+1. Allison Gálvez Saavedra - Bachelor’s degree in Dentistry (2023) (Advisor: Guadalupe Lavalle Vidal)  
+   Gálvez-Saavedra  A,  Lavalle-Vidal  G,  Nima  G.  In  vitro  analysis  of  two  irrigation activation  systems  for  cleaning  mesial  canals  in  lower  molars. Rev  Fac  Odontol  Univ  Antioq.  2024;  36(1): 42-53.
+
