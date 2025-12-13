@@ -28,6 +28,10 @@ main:
     
   - title: "CV"
     url: /cv-json/
+
+  - title: "Research Group"
+  url: /research-group/
+
     
   # - title: "Guide"
   #  url: /markdown/
