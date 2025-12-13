@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-This research group is part of the **Dental Biomaterials Laboratory (BioMaD)** and focuses on the development and evaluation of dental biomaterials, dental adehesion, alternative antimicrobial strategies, and digital dentistry workflows.  
+This research group is part of the Dental Biomaterials Laboratory (BioMaD) and focuses on the development and evaluation of dental biomaterials, dental adehesion, alternative antimicrobial strategies, and digital dentistry workflows.  
 Our research integrates materials science and biological assessment to support safe and predictable clinical outcomes.
 
 Current Students
