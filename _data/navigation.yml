@@ -23,9 +23,12 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  - title: "BioMaD"
+    url: /biomad/
+
   - title: "Research Group"
     url: /research/
-
+    
   - title: "CV"
     url: /cv-json/
 
