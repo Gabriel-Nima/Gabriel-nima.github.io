@@ -39,7 +39,7 @@ Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru.
 **Paper accepted - Sep 2025**
 
 4. **Allison Gálvez Saavedra**  
-Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur, Peru - Advisor: Guadalupe Lavalle Vidal  
+Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur, Peru (Advisor: Guadalupe Lavalle Vidal)  
 *Gálvez-Saavedra  A,  Lavalle-Vidal  G,  Nima  G.  In  vitro  analysis  of  two  irrigation activation  systems  for  cleaning  mesial  canals  in  lower  molars. Rev  Fac  Odontol  Univ  Antioq.  2024;  36(1): 42-53.*  
    [View article](https://revistas-udea-edu-co.translate.goog/index.php/odont/article/view/355627?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
