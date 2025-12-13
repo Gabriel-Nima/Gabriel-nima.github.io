@@ -17,13 +17,13 @@ redirect_from:
   I obtained my Dental degree from the Universidad Nacional Mayor de San Marcos,
   Peru (2007), and hold both a Master’s degree (2016) and a PhD (2020) in Dental Materials
   from Piracicaba Dental School at the University of Campinas (FOP-UNICAMP), Brazil.
-  <br><br>
+  <br>
   My research focuses on dental biomaterials, alternative antimicrobial therapies,
   and digital dentistry, with particular emphasis on antimicrobial photodynamic therapy,
   adhesion to dental tissues, polymerization behavior, and 3D-printed restorative materials.
   I teach at undergraduate and postgraduate programs and collaborate with research groups
   in Chile, Peru, Brazil, and the United States.
-  <br><br>
+  <br>
   More details about my academic background, research activities, and publications
   are available throughout this website.
 </div>
