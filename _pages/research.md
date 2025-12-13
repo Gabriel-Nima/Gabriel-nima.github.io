@@ -26,8 +26,8 @@ Current Students
 </figure>
 
 **PhD Advisees/Co-advisees**
-1. Macarena O. Aburto Martinez, DDS.  
-PhD Program in Dental Science - Universidad de los Andes, Chile
+1. **Macarena O. Aburto Martinez, DDS.**  
+PhD Program in Dental Science - Universidad de los Andes, Chile.  
 Research topic: Dental adhesion and treatment of dentin hypersensitivity.
 
 **Undergraduated Advisees/Co-advisees**
