@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Gabriel Nima"
+title                    : "Gabriel Nima Bermejo"
 title_separator          : "-"
-name                     : &name "Gabriel Nima Bermejo"
+name                     : &name "Gabriel Nima"
 description              : &description "Academic website of Gabriel Nima, researcher in dental materials, photopolymerization, and antimicrobial photodynamic therapy"
 url                      : "https://www.gabrielnima.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "gabriel-nima/gabriel-nima.github.io"
 author:
   # Biographic information
   avatar           : "GNB1.png"
-  name             : "Gabriel Nima Beermejo<br>DDS. MSc. PhD."
+  name             : "Gabriel Nima Bermejo<br>DDS. MSc. PhD."
   pronouns         : # example: "she/her"  
   bio              : "Dental Materials Research<br>Assistant Professor of Dentistry<br>Universidad de los Andes, Chile"
   location         : # URL
