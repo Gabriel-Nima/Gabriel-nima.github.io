@@ -30,7 +30,7 @@ main:
     url: /cv-json/
 
   - title: "Research Group"
-  url: /research-group/
+    url: /research-group/
 
     
   # - title: "Guide"
