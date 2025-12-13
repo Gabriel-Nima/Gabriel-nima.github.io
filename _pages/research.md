@@ -24,7 +24,14 @@ Current Students
     Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD.
   </p>
 </figure>
-  
+
+**PhD Advisees/Co-advisees**
+1. Macarena O. Aburto Martinez, DDS.  
+PhD Program in Dental Science - Universidad de los Andes, Chile
+Research topic: Dental adhesion and treatment of dentin hypersensitivity.
+
+**Undergraduated Advisees/Co-advisees**
+
 Former students
 ======
 **Undergraduated Advisees/Co-advisees**  
