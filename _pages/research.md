@@ -29,17 +29,17 @@ Former students
 ======
 **Undergraduated Advisees/Co-advisees**  
 1. **Stephanie Esther Silva Urco** and **Sayuri Yasira Miguel Soto**  
-Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Lima - Peru.  
+Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Peru.  
 *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de streptococcus mutans*  
 **Paper accepted - Sep 2025**  
 
 2. **Andrea Yolanda Munsibay Foronda** and **Pamela Leonor Espinoza Salas**  
-Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Lima - Peru. (Advisor: Cinthya Ruth Chipana Herquinio)
+Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru. (Advisor: Cinthya R. Chipana Herquinio)  
 *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study*  
 **Paper accepted - Sep 2025**
 
 4. **Allison Gálvez Saavedra**  
-Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur (Lima - Peru) - Advisor: Guadalupe Lavalle Vidal
+Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur, Peru - Advisor: Guadalupe Lavalle Vidal  
 *Gálvez-Saavedra  A,  Lavalle-Vidal  G,  Nima  G.  In  vitro  analysis  of  two  irrigation activation  systems  for  cleaning  mesial  canals  in  lower  molars. Rev  Fac  Odontol  Univ  Antioq.  2024;  36(1): 42-53.*  
    [View article](https://revistas-udea-edu-co.translate.goog/index.php/odont/article/view/355627?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
