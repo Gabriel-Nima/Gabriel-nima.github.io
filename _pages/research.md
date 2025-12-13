@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Group"
-permalink: /research-group/
+permalink: /research/
 author_profile: true
 ---
 ## BioMaD – Dental Biomaterials Laboratory
