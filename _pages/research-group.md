@@ -16,12 +16,13 @@ Our research activities include:
 ## Team
 <figure style="margin: 0 auto; text-align: center;">
   <img src="/images/Research group.jpeg"
-       alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMaD"
+       alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD"
        style="display:block; margin:0 auto; width:70%; max-width:700px;">
-  <figcaption style="font-size:0.9em; text-align:center; margin-top:8px;">
+  <p align="center" style="font-size:0.9em; margin-top:8px;">
     Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD.
-  </figcaption>
+  </p>
 </figure>
+
 
 
 
