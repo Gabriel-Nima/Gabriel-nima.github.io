@@ -18,7 +18,7 @@ Current Students
 ======
 <figure style="margin: 0 auto; text-align: center;">
   <img src="/images/Research group.jpeg"
-       alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD"
+       alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMaD"
        style="display:block; margin:0 auto; width:70%; max-width:700px;">
   <p align="center" style="font-size:0.9em; margin-top:8px;">
     Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD.
@@ -38,8 +38,8 @@ Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Lima 
 *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study*  
 **Paper accepted - Sep 2025**
 
-3. **Allison Gálvez Saavedra**  
-Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur (Lima - Peru) - Advisor: Guadalupe Lavalle Vidal    
-   *Gálvez-Saavedra  A,  Lavalle-Vidal  G,  Nima  G.  In  vitro  analysis  of  two  irrigation activation  systems  for  cleaning  mesial  canals  in  lower  molars. Rev  Fac  Odontol  Univ  Antioq.  2024;  36(1): 42-53.*  
+4. **Allison Gálvez Saavedra**  
+Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur (Lima - Peru) - Advisor: Guadalupe Lavalle Vidal
+*Gálvez-Saavedra  A,  Lavalle-Vidal  G,  Nima  G.  In  vitro  analysis  of  two  irrigation activation  systems  for  cleaning  mesial  canals  in  lower  molars. Rev  Fac  Odontol  Univ  Antioq.  2024;  36(1): 42-53.*  
    [View article](https://revistas-udea-edu-co.translate.goog/index.php/odont/article/view/355627?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 
