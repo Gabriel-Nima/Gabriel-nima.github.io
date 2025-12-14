@@ -15,7 +15,7 @@ Current Students
        alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMaD"
        style="display:block; margin:0 auto; width:70%; max-width:700px;">
   <p align="center" style="font-size:0.9em; margin-top:8px;">
-    Students conducting research under the supervision of Prof. Gabriel Nima at BioMAD.
+    Students conducting research under the supervision of Prof. Gabriel Nima at BioMaD.
   </p>
 </figure>
 
