@@ -52,7 +52,7 @@ Bachelor’s degree in Dentistry (2025) - Universidad de los Andes, Chile.
 1. **Stephanie Esther Silva Urco** and **Sayuri Yasira Miguel Soto**  
 Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Peru.  
 *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de streptococcus mutans*  
-**Paper accepted - Sep 2025**  
+[View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
 
 2. **Andrea Yolanda Munsibay Foronda** and **Pamela Leonor Espinoza Salas**  
 Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru. (Advisor: Cinthya R. Chipana Herquinio)  
