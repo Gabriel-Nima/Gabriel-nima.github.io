@@ -32,6 +32,8 @@ redirect_from:
 
 ## Latest Publications
 
+- Silva SE, Miguel SY, Olaechea RM,  **Nima  G**.  Concentración  del  EDTA  en  la  efectividad  de  la  terapia  fotodinámica  antimicrobiana con curcumina sobre biofilm de Streptococcus  mutans.  Rev  Cient  Odontol  (Lima). 2026;14(1):e277.
+  [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240/1643)
 - Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025 Nov 21;36:e256534.  
   [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
 - Quintana EEV, **Nima G**, Mezzomo LA, Noriega J, Gallardo YNR. *Accuracy of four intraoral scanning devices and the effect of three different illuminance conditions.* J Clin Exp Dent. 2025;17(12):e1516-23.  
@@ -41,6 +43,6 @@ redirect_from:
 
 ## Accepted papers
 
-- Silva SE, Miguel SY, Olaechea RM, **Nima G**. *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de Streptococcus mutans.* Rev Cient Odontol.
 - Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study.* Rev Cient Odontol.
+- Gallardo YNR, Ratzeburg FSG, **Nima G**, Noriega J, Calle R, Bechtold TE, Beuer F, Sukotjo C.  *Accuracy of implant-supported crowns fabricated by additive and subtractive manufacturing technologies using ceramic-filled resins.* The Journal of Prosthetic Dentistry. 
 
