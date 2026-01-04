@@ -33,7 +33,7 @@ redirect_from:
 ## Latest Publications
 
 - Silva SE, Miguel SY, Olaechea RM,  **Nima  G**.  Concentración  del  EDTA  en  la  efectividad  de  la  terapia  fotodinámica  antimicrobiana con curcumina sobre biofilm de Streptococcus  mutans.  Rev  Cient  Odontol  (Lima). 2026;14(1):e277.  
-  [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240/1643)
+  [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
 - Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025 Nov 21;36:e256534.  
   [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
 - Quintana EEV, **Nima G**, Mezzomo LA, Noriega J, Gallardo YNR. *Accuracy of four intraoral scanning devices and the effect of three different illuminance conditions.* J Clin Exp Dent. 2025;17(12):e1516-23.  
