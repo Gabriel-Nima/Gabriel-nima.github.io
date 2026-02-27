@@ -14,7 +14,7 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <<a href="{{ domain }}{{ nav.url }}"
+          <a href="{{ domain }}{{ nav.url }}"
    {% if nav.external == true %}target="_blank" rel="noopener noreferrer"{% endif %}>
   <span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
