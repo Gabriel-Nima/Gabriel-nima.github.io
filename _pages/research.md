@@ -29,7 +29,7 @@ Research area: Dental adhesion and biomaterial-based management of dentin hypers
 Research area:  FDM 3D printing in dentistry.  
 2. **Martín I. Carvajal Vives.**  
 Research area: FDM 3D printing in dentistry.  
-4. **Camila Contreras Medel.**  
+4. **Camila I. Contreras Medel.**  
 Research area: 3D-printed dental restorative materials.  
 6. **Sofía P. Mucherl Calatayud.**  
 Research area: 3D-printed dental restorative materials.  
