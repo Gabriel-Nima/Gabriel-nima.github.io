@@ -54,7 +54,7 @@ Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Peru.
 *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de streptococcus mutans*  
 [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
 
-2.**Alonso Humberto Castilla Cabello**  
+2. **Alonso Humberto Castilla Cabello**  
 Master’s degree in Stomatology (2025) - Universidad Científica del Sur, Peru.  
 *Efecto del tipo de unidad de polimerización LED en la resistencia compresiva de las resinas compuestas convencionales y de incremento único: estudio in vitro*  
 [View article](https://revistas.upch.edu.pe/index.php/REH/article/view/5930)
