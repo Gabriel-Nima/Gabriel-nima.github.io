@@ -54,7 +54,12 @@ Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Peru.
 *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de streptococcus mutans*  
 [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
 
-2. **Andrea Yolanda Munsibay Foronda** and **Pamela Leonor Espinoza Salas**  
+2.**Alonso Humberto Castilla Cabello**  
+Master’s degree in Stomatology (2025) - Universidad Científica del Sur, Peru.  
+*Efecto del tipo de unidad de polimerización LED en la resistencia compresiva de las resinas compuestas convencionales y de incremento único: estudio in vitro*  
+[View article](https://revistas.upch.edu.pe/index.php/REH/article/view/5930)
+
+3. **Andrea Yolanda Munsibay Foronda** and **Pamela Leonor Espinoza Salas**  
 Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru. (Advisor: Cinthya R. Chipana Herquinio)  
 *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study*  
 **Paper accepted - Sep 2025**
