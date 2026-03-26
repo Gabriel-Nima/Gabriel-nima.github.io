@@ -35,6 +35,6 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Intranet"
+  - title: "Sharepoint"
     url: https://universidaduandes.sharepoint.com/sites/NimaLab/SitePages/TrainingHome.aspx
     external: true
