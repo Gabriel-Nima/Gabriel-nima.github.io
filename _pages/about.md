@@ -32,6 +32,8 @@ redirect_from:
 
 ## Latest Publications
 
+- Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study. Rev 2025 Dec 28;14(1):e277.
+  [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/2732/1708)
 - Gallardo YNR, Ratzeburg FSG, **Nima G**, Noriega J, Calle-Chavez R, Bechtold TE, Beuer F, Sukotjo C. Accuracy of implant-supported crowns fabricated by additive and subtractive manufacturing technologies using ceramic-filled resins: An in vitro study. J Prosthet Dent. 2026 Feb 9:S0022-3913(26)00039-9. Epub ahead of print.  
   [View article](https://www.thejpd.org/article/S0022-3913(26)00039-9/fulltext)
 - Silva SE, Miguel SY, Olaechea RM,  **Nima  G**.  Concentración  del  EDTA  en  la  efectividad  de  la  terapia  fotodinámica  antimicrobiana con curcumina sobre biofilm de Streptococcus  mutans.  Rev  Cient  Odontol  (Lima). 2026;14(1):e277.  
@@ -42,8 +44,3 @@ redirect_from:
   [View article](http://www.medicinaoral.com/medoralfree01/aop/62602.pdf)
 - Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, **Nima G**. *Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods.* J Dent. 2025 Oct;161:105972.  
   [View article](https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub)
-
-## Accepted papers
-
-- Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study.* Rev Cient Odontol.
-
