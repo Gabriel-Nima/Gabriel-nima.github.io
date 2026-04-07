@@ -60,8 +60,7 @@ Master’s degree in Stomatology (2025) - Universidad Científica del Sur, Peru.
 [View article](https://revistas.upch.edu.pe/index.php/REH/article/view/5930)
 
 3. **Andrea Yolanda Munsibay Foronda** and **Pamela Leonor Espinoza Salas**  
-Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru. (Advisor: Cinthya R. Chipana Herquinio)  
-*Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study*  
+Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru. (Advisor: Cinthya R. Chipana Herquinio) *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study*  
 [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/2732)
 
 4. **Allison Gálvez Saavedra**  
