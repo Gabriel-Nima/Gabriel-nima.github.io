@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Summary
+======
+Professor and researcher in Dental Materials at Universidad de los Andes, Chile. I work at the Laboratory of Dental Biomaterials (BioMAD) within the Centro de Investigación e Innovación Biomédica (CIIB), with a research focus on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces to dental tissues.
 
 Education
 ======
