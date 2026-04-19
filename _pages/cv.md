@@ -35,7 +35,10 @@ Education
 * **MSc in Dental Materials**    
   Piracicaba Dental School, University of Campinas (UNICAMP), Brazil, 2016
   
-* **DDS in Dentistry**  
+* **Professional Title in Dentistry (DDS equivalent)**
+  Universidad Nacional Mayor de San Marcos, Peru, 2007
+  
+* **Bachelor’s Degree in Dentistry**
   Universidad Nacional Mayor de San Marcos, Peru, 2005
 
 
@@ -65,6 +68,7 @@ Work experience
 - **Apr 2005–Dec2008 | Student Teaching Assistant (Undergraduate Courses)**  
   Universidad Nacional Mayor de San Marcos, Lima, Peru  
   Supported practical sessions and undergraduate student guidance.
+
 
 ### Professional Practice
 
