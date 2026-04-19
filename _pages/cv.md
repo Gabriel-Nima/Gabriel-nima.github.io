@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Laboratory of Dental Biomaterials (BioMaD) within the Centro de Investigación e Innovación Biomédica (CIIB). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
+Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Laboratory of Dental Biomaterials (BioMaD) within the Centro de Investigación e Innovación Biomédica (CiiB). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
 
 Research Lines
 ======
