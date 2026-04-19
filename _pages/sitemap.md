@@ -11,42 +11,29 @@ A list of the main pages and content available on this site. An [XML version]({{
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% if post.title
-        and post.url != '/sitemap/'
-        and post.url != '/404.html'
-        and post.url != '/markdown_generator/'
-        and post.path != 'markdown_generator/index.md'
-        and post.sitemap != false %}
+  {% unless post.url == '/sitemap/' or post.url == '/404.html' or post.url == '/markdown_generator/' or post.sitemap == false %}
     {% include archive-single.html %}
-  {% endif %}
+  {% endunless %}
 {% endfor %}
 
+{% if site.posts.size > 0 %}
 <h2>Posts</h2>
 {% for post in site.posts %}
-  {% if post.title and post.sitemap != false %}
+  {% if post.sitemap != false %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+{% endif %}
 
 {% for collection in site.collections %}
   {% unless collection.output == false or collection.label == "posts" %}
-    
-    {% assign has_visible_docs = false %}
-    {% for doc in collection.docs %}
-      {% if doc.title and doc.sitemap != false %}
-        {% assign has_visible_docs = true %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-
-    {% if has_visible_docs %}
+    {% if collection.docs.size > 0 %}
       <h2>{{ collection.label | capitalize }}</h2>
       {% for post in collection.docs %}
-        {% if post.title and post.sitemap != false %}
+        {% if post.sitemap != false %}
           {% include archive-single.html %}
         {% endif %}
       {% endfor %}
     {% endif %}
-
   {% endunless %}
 {% endfor %}
