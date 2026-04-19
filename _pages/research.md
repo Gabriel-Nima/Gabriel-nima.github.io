@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-This research group is part of the Dental Biomaterials Laboratory (BioMaD) and focuses on the development and evaluation of dental biomaterials, dental adehesion, alternative antimicrobial strategies, and digital dentistry workflows.  
+This research group is part of the Dental Biomaterials Laboratory (BioMaD) and focuses on the development and evaluation of dental biomaterials, dental adhesion, alternative antimicrobial strategies, and digital dentistry workflows.  
 Our research integrates materials science and biological assessment to support safe and predictable clinical outcomes.
 
 Current Students
@@ -19,12 +19,12 @@ Current Students
   </p>
 </figure>
 
-**PhD Advisees/Co-advisees**
+**PhD Students Supervised and Co-supervised**
 1. **Macarena O. Aburto Martinez, DDS.**  
 PhD Program in Dental Science - Universidad de los Andes, Chile.  
 Research area: Dental adhesion and biomaterial-based management of dentin hypersensitivity, and surface treatment of 3D-printed dental materials.
 
-**Undergraduated Advisees/Co-advisees**
+**Undergraduate Students Supervised and Co-supervised**
 1. **Felipe A. Tapia Mayorga.**  
 Research area:  FDM 3D printing in dentistry.  
 2. **Martín I. Carvajal Vives.**  
