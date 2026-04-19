@@ -19,6 +19,14 @@ Here you will find a summary of my research published in peer-reviewed journals 
   [View article](http://www.medicinaoral.com/medoralfree01/aop/62602.pdf)
 * Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, **Nima G**. *Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods.* J Dent. 2025 Oct;161:105972.  
   [View article](https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub)
+* Gálvez-Saavedra, A., Lavalle-Vidal, G., *Nima, G*. (2024). In vitro analysis of two irrigation activation systems for cleaning mesial canals in lower molars. Revista Facultad De Odontología Universidad De Antioquia, 36(1), 42–53.  
+  [View article](https://revistas-udea-edu-co.translate.goog/index.php/odont/article/view/355627?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+* Sahadi BO, Sebold M, André CB, **Nima G**, Dos Santos A, Chiari MDESC, Nascimento FD, Tersariol ILDS, Giannini M. Effect of experimental dentin etchants on dentin bond strength, metalloproteinase inhibition, and antibiofilm activity. Dent Mater. 2024 Apr;40(4):e12-e23. doi: 10.1016/j.dental.2024.02.017.  
+  [View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564124000393)
+* Carneiro BT, de Castro FNAM, Benetti F, **Nima G**, Suzuki TYU, André CB. Flavonoids effects against bacteria associated to periodontal disease and dental caries: a scoping review. Biofouling. 2024 Feb;40(2):99-113. doi: 10.1080/08927014.2024.2321965. Epub 2024 Feb 29.  
+  [View article](https://www.tandfonline.com/doi/10.1080/08927014.2024.2321965?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)  
+* de Castro EF, **Nima G**, Rueggeberg FA, Araújo-Neto VG, Faraoni JJ, Palma-Dibb RG, Giannini M. Effect of build orientation in gloss, roughness and color of 3D-printed resins for provisional indirect restorations. Dent Mater. 2023 Jul;39(7):e1-e11. doi: 10.1016/j.dental.2023.05.002. Epub 2023 May 27.  
+[View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564123001100?via%3Dihub)    
 * de Castro EF, **Nima G**, Rueggeberg FA, Giannini M. Effect of build orientation in accuracy, flexural modulus, flexural strength, and microhardness of 3D-Printed resins for provisional restorations. J Mech Behav Biomed Mater. 2022 Sep 29;136:105479.  
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S1751616122003848?via%3Dihub)
 * Soto-Montero J, de Castro EF, Romano BC, **Nima G**, Shimokawa CAK, Giannini M. Color alterations, flexural strength, and microhardness of 3D printed resins for fixed provisional restoration using different post-curing times. Dent Mater. 2022 Aug;38(8):1271-1282.  
