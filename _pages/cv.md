@@ -22,6 +22,7 @@ Evaluation of adhesion to dental substrates, metallic surfaces, and 3D-printed m
 
 * **CAD/CAM and 3D-Printed Dental Materials**  
 Characterization of additive and subtractive restorative systems in terms of accuracy, wear resistance, and mechanical behavior; development of adhesion protocols for 3D-printed restorative materials; and evaluation of intraoral scanner performance, including trueness and precision.
+<br>
 
 Education
 ======
@@ -36,7 +37,7 @@ Education
   
 * **2005 | Bachelor’s Degree in Dentistry**  
   Universidad Nacional Mayor de San Marcos, Peru.
-
+<br>
 
 Work experience
 ======
@@ -65,13 +66,12 @@ Work experience
   Universidad Nacional Mayor de San Marcos, Lima, Peru  
   Supported practical sessions and undergraduate student guidance.
 
-
 ## Professional Practice
-
 - **2007–2023 | Private Dental Practice**  
   Lima, Peru  
   Clinical practice focused on restorative and preventive dentistry. 
- 
+<br>
+
 Supervision and Mentoring
 ======
 ## Undergraduate Students  
