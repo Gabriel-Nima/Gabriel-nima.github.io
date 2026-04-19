@@ -15,6 +15,8 @@ Here you will find a summary of my research published in peer-reviewed journals 
   [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
 * Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025 Nov 21;36:e256534.  
   [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
+* **Nima G**, Ratzeburg FSG, Manrique Z, Mukai E, Bechtold TE, Gallardo YNR. Accuracy of additive and subtractive methods for interim tooth-supported restorations: An in vitro comparison of occlusal, axial, and intaglio surfaces. J Prosthet Dent. 2025 Aug;134(2):408.e1-408.e8. doi: 10.1016/j.prosdent.2025.04.006. Epub 2025 Apr 24.  
+  [View article](https://www.thejpd.org/article/S0022-3913(25)00308-7/fulltext)
 * Quintana EEV, **Nima G**, Mezzomo LA, Noriega J, Gallardo YNR. *Accuracy of four intraoral scanning devices and the effect of three different illuminance conditions.* J Clin Exp Dent. 2025;17(12):e1516-23.  
   [View article](http://www.medicinaoral.com/medoralfree01/aop/62602.pdf)
 * Gallardo YNR, Karayazgan B, Mukai E, Soto CP, Sukotjo C, **Nima G**. *Accuracy of fused deposition modeling using biodegradable material: A comparative study with four resin-based additive manufacturing methods.* J Dent. 2025 Oct;161:105972.  
