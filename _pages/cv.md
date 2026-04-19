@@ -15,27 +15,27 @@ Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliate
 
 Research Lines
 ======
-### Alternative Antimicrobial Therapies and Emerging Dental Materials
+**Alternative Antimicrobial Therapies and Emerging Dental Materials**    
 Development of innovative approaches for biofilm control and caries management, including blue-light photodynamic therapy, cold plasma, and biofunctional dental materials, together with the design and characterization of novel restorative and biomedical materials.
 
-### Dental Polymerization
+**Dental Polymerization**  
 Study of polymerization kinetics and quality, with emphasis on depth of cure and degree of conversion, and on the influence of light wavelengths, polywave curing systems, and polymerization shrinkage stress on restorative performance.
 
-### Dental Adhesion and Bonding
+**Dental Adhesion and Bonding**  
 Evaluation of adhesion to dental substrates, metallic surfaces, and 3D-printed materials, as well as the development of experimental etchants and bonding strategies to enhance long-term adhesive durability.
 
-### CAD/CAM and 3D-Printed Dental Materials
+**CAD/CAM and 3D-Printed Dental Materials**  
 Characterization of additive and subtractive restorative systems in terms of accuracy, wear resistance, and mechanical behavior; development of adhesion protocols for 3D-printed restorative materials; and evaluation of intraoral scanner performance, including trueness and precision.
 
 Education
 ======
-### PhD in Dental Materials  
+* **PhD in Dental Materials**    
   Piracicaba Dental School, University of Campinas (UNICAMP), Brazil, 2020
 
-### MSc in Dental Materials  
+* **MSc in Dental Materials**    
   Piracicaba Dental School, University of Campinas (UNICAMP), Brazil, 2016
   
-### DDS in Dentistry  
+* **DDS in Dentistry**  
   Universidad Nacional Mayor de San Marcos, Peru, 2005
 
 
