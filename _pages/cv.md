@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Summary
 ======
 Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Laboratory of Dental Biomaterials (BioMaD) within the Centro de Investigación e Innovación Biomédica (CiiB). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
@@ -65,7 +63,7 @@ Work experience
   Piracicaba Dental School, University of Campinas (UNICAMP), Brazil  
   Supported laboratory activities, tutorials, and undergraduate assessment.
 
-- **Apr 2005–Dec2008 | Student Teaching Assistant (Undergraduate Courses)**  
+- **Apr 2005–Dec 2008 | Student Teaching Assistant (Undergraduate Courses)**  
   Universidad Nacional Mayor de San Marcos, Lima, Peru  
   Supported practical sessions and undergraduate student guidance.
 
