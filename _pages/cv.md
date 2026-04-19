@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Summary
-======
 Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Laboratory of Dental Biomaterials (BioMaD) within the Centro de Investigación e Innovación Biomédica (CiiB). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
 
 Research Lines
@@ -42,7 +40,7 @@ Education
 
 Work experience
 ======
-### Academic Appointments
+## Academic Appointments
 
 - **Feb 2023–Present | Assistant Professor and Researcher**  
   Universidad de los Andes, Laboratory of Dental Biomaterials (BioMaD), Centro de Investigación e Innovación Biomédica (CIIB), Santiago, Chile
@@ -68,7 +66,7 @@ Work experience
   Supported practical sessions and undergraduate student guidance.
 
 
-### Professional Practice
+## Professional Practice
 
 - **2007–2023 | Private Dental Practice**  
   Lima, Peru  
@@ -76,7 +74,7 @@ Work experience
  
 Supervision and Mentoring
 ======
-### Undergraduate Students  
+## Undergraduate Students  
 * **Katherine Vesgaz Palacios**  
 Bachelor’s degree in Dentistry (2026) - Universidad Científica del Sur, Peru.  
 *Eficacia del ácido poliacrílico en la adhesión de un cemento resinoso autograbador al esmalte*  
