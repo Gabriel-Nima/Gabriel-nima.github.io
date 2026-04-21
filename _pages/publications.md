@@ -38,9 +38,9 @@ Journal Articles
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564122001749?via%3Dihub) 
 * de Castro EF, **Nima G**, Rueggeberg FA, Giannini M. Effect of build orientation in accuracy, flexural modulus, flexural strength, and microhardness of 3D-Printed resins for provisional restorations. J Mech Behav Biomed Mater. 2022 Sep 29;136:105479.  
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S1751616122003848?via%3Dihub)
-* **Nima G**, Makishi P, Fronza BM, Campos Ferreira PV, Braga RR, Reis AF, Giannini M. Polymerization Kinetics, Shrinkage Stress, and Bond Strength to Dentin of Conventional and Self-adhesive Resin Cements. J Adhes Dent. 2022 Sep 28;24(1):355-366.
+* **Nima G**, Makishi P, Fronza BM, Campos Ferreira PV, Braga RR, Reis AF, Giannini M. Polymerization Kinetics, Shrinkage Stress, and Bond Strength to Dentin of Conventional and Self-adhesive Resin Cements. J Adhes Dent. 2022 Sep 28;24(1):355-366.  
   [View article](https://www.quintessence-publishing.com/deu/en/article/3441537)
-* De-Castro EF, **Nima G**, Giannini M. Efeito do envelhecimento em água na adesão e propriedades mecânicas de uma cerâmica CAD/CAM. Rev. Assoc. Paul. Cir Dent 2022;76(1):47-53
+* De-Castro EF, **Nima G**, Giannini M. Efeito do envelhecimento em água na adesão e propriedades mecânicas de uma cerâmica CAD/CAM. Rev. Assoc. Paul. Cir Dent 2022;76(1):47-53  
   [View article](https://fliphtml5.com/dmnum/jflr?utm_source=revista&amp;utm_medium=link&amp;utm_campaign=revista&amp;utm_id=revista_da_apcd_jan_fev_mar_2022)
 * **Nima G**, Harth-Chu E, Hiers RD, Pecorari VGA, Dyer DW, Khajotia SS, Giannini M, Florez FLE. Antibacterial efficacy of non-thermal atmospheric plasma against Streptococcus mutans biofilm grown on the surfaces of restorative resin composites. Sci Rep. 2021 Dec 10;11(1):23800  
   [View article](https://www.nature.com/articles/s41598-021-03192-0)
@@ -60,12 +60,13 @@ Journal Articles
 [View article](https://www.quintessence-publishing.com/deu/en/article/843554/the-journal-of-adhesive-dentistry/2020/04/adhesion-mechanical-properties-and-microstructure-of-resin-matrix-cad-cam-ceramics?withoutimageoninit=1)
 * Ruivo MA, **Nima G**, Pacheco RR, Lancellotti ACRA, Palma-Dibb RG, Faraoni JJ, Soares LES, Martins AA, Lopes BB, Giannini M. Changes in enamel after bleaching pre-treatment with non-thermal atmospheric plasma. Clinical Plasma Medicine. 2020; 19-20. doi.org/10.1016/j.cpme.2020.100106  
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S2212816620300135)
-* **Nima G**, Sá RB, Giannini M. Influence of desensitizers agents on the dentin bond strength after one-year water storage. Brazilian Journal of Oral Sciences, 19, e201602.  [View article](https://periodicos.sbu.unicamp.br/ojs/index.php/bjos/article/view/8658334)  
+* **Nima G**, Sá RB, Giannini M. Influence of desensitizers agents on the dentin bond strength after one-year water storage. Brazilian Journal of Oral Sciences, 19, e201602.  
+  [View article](https://periodicos.sbu.unicamp.br/ojs/index.php/bjos/article/view/8658334)  
 * **Nima G**, Cavalli V, Bacelar-Sá R, Ambrosano GMB, Giannini M. Effects of sodium hypochlorite as dentin deproteinizing agent and aging media on bond strength of two conventional adhesives [published online ahead of print, 2019 Nov 7]. Microsc Res Tech. 2019;10.1002/jemt.23401.  
   [View article](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jemt.23401)
 * Soto-Montero J, **Nima G**, Rueggeberg FA, Dias C, Giannini M. Influence of Multiple Peak Light-emitting-diode Curing Unit Beam Homogenization Tips on Microhardness of Resin Composites. Oper Dent. 2020; 45(3): 327-338 doi:10.2341/19-027-L  
 [View article](https://operative-dentistry.kglmeridian.com/view/journals/odnt/45/3/article-p327.xml?redirectedFrom=fulltext)
-* Sahadi BO, Price RB, André CB, Sebold M, **Bermejo GN**, Palma-Dibb, Regina G, Faraoni JJ, Soares CJ, Giannini M. Multiple-peak and single-peak dental curing lights comparison on the wear resistance of bulk-fill composites. Braz Oral Res. 2018;32:e122. 
+* Sahadi BO, Price RB, André CB, Sebold M, **Bermejo GN**, Palma-Dibb, Regina G, Faraoni JJ, Soares CJ, Giannini M. Multiple-peak and single-peak dental curing lights comparison on the wear resistance of bulk-fill composites. Braz Oral Res. 2018;32:e122.   
   [View article](https://www.scielo.br/j/bor/a/mLVMxm5WJNkX7cm6m5SQMhv/?lang=en)
 * André CB, **Nima G**, Sebold M, Giannini M, Price RB. Stability of the Light Output, Oral Cavity Tip Accessibility in Posterior Region and Emission Spectrum of Light-Curing Units. Oper Dent. 2018;43(4):398–407.    
   [View article](https://operative-dentistry.kglmeridian.com/view/journals/odnt/43/4/article-p398.xml?redirectedFrom=fulltext)
