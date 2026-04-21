@@ -38,8 +38,10 @@ Journal Articles
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564122001749?via%3Dihub) 
 * de Castro EF, **Nima G**, Rueggeberg FA, Giannini M. Effect of build orientation in accuracy, flexural modulus, flexural strength, and microhardness of 3D-Printed resins for provisional restorations. J Mech Behav Biomed Mater. 2022 Sep 29;136:105479.  
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S1751616122003848?via%3Dihub)
-* **Nima G**, Makishi P, Fronza BM, Campos Ferreira PV, Braga RR, Reis AF, Giannini M. Polymerization Kinetics, Shrinkage Stress, and Bond Strength to Dentin of Conventional and Self-adhesive Resin Cements. J Adhes Dent. 2022 Sep 28;24(1):355-366.  
+* **Nima G**, Makishi P, Fronza BM, Campos Ferreira PV, Braga RR, Reis AF, Giannini M. Polymerization Kinetics, Shrinkage Stress, and Bond Strength to Dentin of Conventional and Self-adhesive Resin Cements. J Adhes Dent. 2022 Sep 28;24(1):355-366.
   [View article](https://www.quintessence-publishing.com/deu/en/article/3441537)
+* De-Castro EF, **Nima G**, Giannini M. Efeito do envelhecimento em água na adesão e propriedades mecânicas de uma cerâmica CAD/CAM. Rev. Assoc. Paul. Cir Dent 2022;76(1):47-53
+  [View article](https://fliphtml5.com/dmnum/jflr?utm_source=revista&amp;utm_medium=link&amp;utm_campaign=revista&amp;utm_id=revista_da_apcd_jan_fev_mar_2022)
 * **Nima G**, Harth-Chu E, Hiers RD, Pecorari VGA, Dyer DW, Khajotia SS, Giannini M, Florez FLE. Antibacterial efficacy of non-thermal atmospheric plasma against Streptococcus mutans biofilm grown on the surfaces of restorative resin composites. Sci Rep. 2021 Dec 10;11(1):23800  
   [View article](https://www.nature.com/articles/s41598-021-03192-0)
 * Rojas MAS, **Nima G**, Geng-Vivanco R, Abuna GA, Tay LY, Puppin-Rontani RM. Limited etching time increases the longevity of the self-adhesive resin cements adhesion to enamel. Operative Dentistry. 2021 Sep 1;46(5):547-558.  
