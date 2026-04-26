@@ -44,7 +44,7 @@ Research area: Dental polymerization and 3D-printed dental restorative materials
 
 Former students
 ======
-**Undergraduated Advisees/Co-advisees**  
+**Undergraduate Advisees/Co-advisees**  
 1. **Juan Pablo Rojas Blanco**  
 Bachelor’s degree in Dentistry (2025) - Universidad de los Andes, Chile.  
 *Evaluación de diferentes tratamientos de superficie para la cementación de restauraciones de larga duración impresas en 3d: test de microcizallamiento.*   
