@@ -28,8 +28,8 @@ Journal Articles
   [View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564124000393)
 * Carneiro BT, de Castro FNAM, Benetti F, **Nima G**, Suzuki TYU, André CB. Flavonoids effects against bacteria associated to periodontal disease and dental caries: a scoping review. Biofouling. 2024 Feb;40(2):99-113. doi: 10.1080/08927014.2024.2321965. Epub 2024 Feb 29.  
   [View article](https://www.tandfonline.com/doi/10.1080/08927014.2024.2321965?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)  
-* Gálvez-Saavedra, A., Lavalle-Vidal, G., **Nima,G**. (2024). In vitro analysis of two irrigation activation systems for cleaning mesial canals in lower molars. Revista Facultad De Odontología Universidad De Antioquia, 36(1), 42–53.  
-  [View article](https://revistas-udea-edu-co.translate.goog/index.php/odont/article/view/355627?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+* Gálvez-Saavedra, A., Lavalle-Vidal, G., **Nima,G**. (2024). In vitro analysis of two irrigation activation systems for cleaning mesial canals in lower molars. Revista Facultad De Odontología Universidad De Antioquia, 2024 Apr;36(1):42–53.  
+  [View article](https://revistas.udea.edu.co/index.php/odont/article/view/355627)
 * de Castro EF, **Nima G**, Rueggeberg FA, Araújo-Neto VG, Faraoni JJ, Palma-Dibb RG, Giannini M. Effect of build orientation in gloss, roughness and color of 3D-printed resins for provisional indirect restorations. Dent Mater. 2023 Jul;39(7):e1-e11. doi: 10.1016/j.dental.2023.05.002. Epub 2023 May 27.  
 [View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564123001100?via%3Dihub)
 * Bidoli F, de Castro EF, Azevedo VL, Price RB, **Nima G**, de Andrade OS, Giannini M. Effect of Tooth Brushing Cycles and Dentifrice Fluoride Concentration on a Glazed CAD/CAM Ceramic. Int J Prosthodont. 2023 Sep 12;36(4):451-459. doi: 10.11607/ijp.7187.  
