@@ -72,3 +72,11 @@ Journal Articles
   [View article](https://operative-dentistry.kglmeridian.com/view/journals/odnt/43/4/article-p398.xml?redirectedFrom=fulltext)
 * **Nima G**, Ferreira PVC, Paula AB, Consani S, Giannini M. Effect of Metal Primers on Bond Strength of a Composite Resin to Nickel-Chrome Metal Alloy. Braz Dent J. 2017;28(2):210–215.  
   [View article](https://www.scielo.br/j/bdj/a/8JsPt8vbJKyd5SQ68ZW3WLS/?lang=en)
+* Miranda-Zárate AM, **Bermejo GN**, Bazán-Ponce de León JE, Saravia-Rojas MA. Efectos de un blanqueamiento dental con ozono y otro con peróxido de carbamida al 22% sobre la fuerza de adhesión al esmalte en diferentes intervalos de tiempo. Acta odontol. venez. 2009  Dic; 47(4 ):69-77.  
+  [View article](https://www.actaodontologica.com/ediciones/2009/4/art-7/)
+* Saravia M, **Nima G**, Miranda AM. Fuerza de adhesión In vitro de un cemento resinoso autograbador autoadhesivo sobre esmalte dental. Revista Estomatológica Vision Dental. 2006,9(1):11-15.
+* **Bermejo GN**, Romero-Velarde MR. Tratamiento odontopediátrico integral en parálisis cerebral. Reporte de un caso. Odontol Sanmarquina. 2005 Dec. 30;8(2):25-30.  
+  [View article](https://revistasinvestigacion.unmsm.edu.pe/index.php/odont/article/view/3143)
+* **Nima, G**; Miranda, A.; Saravia, M.. Efecto de una sola aplicación de un blanqueador de peróxido de hidrógeno al 35% sobre el esmalte dental en diferentes intervalos de tiempo'. Revista Estomatológica Vision Dental. 2005;5(6):11 - 15.
+* Díaz Soriano AM, Pérez Vargas, LF, Castro Rodríguez AF, Montesinos Mateos A, Montoro Chávez E, Morales Yauri W, Muñoz Sáenz S, **Nima Bermejo G**, Obregon Alzamora J, Olivares López C, Panduro Dextre K, Paredes Pérez H. Efecto de los colutorios orales con fluoruro de sodio al 0.05% y agua con sal al 5% sobre la placa bacteriana y el ph salival. Odontol Sanmarquina. 2005 Jul. 15;8(1):6-9.  
+   [View article](https://revistasinvestigacion.unmsm.edu.pe/index.php/odont/article/view/2994)
