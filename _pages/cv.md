@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Laboratory of Dental Biomaterials (BioMaD) within the Centro de Investigación e Innovación Biomédica (CiiB). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
+Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Dental Biomaterials Laboratory (BioMaD) within the Centro de Investigación e Innovación Biomédica (CiiB). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
 
 Research Lines
 ======
@@ -44,7 +44,7 @@ Work experience
 ## Academic Appointments
 
 - **Feb 2023–Present | Assistant Professor and Researcher**  
-  Universidad de los Andes, Laboratory of Dental Biomaterials (BioMaD), Centro de Investigación e Innovación Biomédica (CIIB), Santiago, Chile
+  Universidad de los Andes, Dental Biomaterials Laboratory (BioMaD), Centro de Investigación e Innovación Biomédica (CiiB), Santiago, Chile
 
 - **Dec 2021–Feb 2023 | Faculty Member**  
   Universidad Norbert Wiener, Lima, Peru  
