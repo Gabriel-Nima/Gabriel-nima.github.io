@@ -13,7 +13,7 @@ redirect_from:
 </div>
 
 ## Sobre mí
-Soy Profesor Asistente Ordinario en la Universidad de los Andes, Chile, e investigador en el Laboratorio de Biomateriales Dentales (BioMaD), perteneciente al Centro de Investigación e Innovación Biomédica (CiiB). Obtuve mi título de Cirujano Dentista en la Universidad Nacional Mayor de San Marcos, Perú (2007), y cuento con una Maestría (2016) y un Doctorado (2020) en Materiales Dentales por la Universidad de Campinas (FOP-UNICAMP), Brasil.
+Soy Profesor Asistente Ordinario en la [Universidad de los Andes, Chile](https://www.uandes.cl), e investigador en el Laboratorio de Biomateriales Dentales ([BioMaD](/biomad/)), perteneciente al [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/). Obtuve mi título de Cirujano Dentista en la Universidad Nacional Mayor de San Marcos, Perú (2007), y cuento con una Maestría (2016) y un Doctorado (2020) en Materiales Dentales por la Universidad de Campinas (FOP-UNICAMP), Brasil.  
 Mi trabajo integra investigación, docencia y relevancia clínica en biomateriales dentales — desde terapias antimicrobianas alternativas y adhesión a tejidos dentales, hasta el comportamiento de polimerización y materiales restauradores impresos en 3D. Colaboro con grupos de investigación en Chile, Perú, Brasil y Estados Unidos, y participo activamente en la formación de estudiantes de pregrado y posgrado en proyectos de investigación y tesis.
 📊 798 citas · índice h 16 · índice i10 17  <small>— <a href="https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es" target="_blank">Google Scholar</a>, abril 2026</small>
 
