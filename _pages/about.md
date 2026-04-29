@@ -67,5 +67,5 @@ My work integrates research, teaching, and clinical relevance in dental biomater
  
 I'm always open to collaborations with researchers working on dental biomaterials, antimicrobial strategies, or digital dentistry. I also welcome inquiries from motivated students interested in joining BioMaD as undergraduate or graduate researchers.
  
-📧 [Email](mailto:gnima@uandes.cl) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0002-0389-4332) &nbsp;·&nbsp; [ResearchGate](https://www.researchgate.net/profile/Gabriel-Nima-B)
+📧 [Email](mailto:gnima@uandes.cl) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es) &nbsp;·&nbsp; [ResearchGate](https://www.researchgate.net/profile/Gabriel-Nima-B)
 
