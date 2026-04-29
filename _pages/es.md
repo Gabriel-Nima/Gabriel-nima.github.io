@@ -1,10 +1,10 @@
+---
 permalink: /es/
-title:
+title: ""
 author_profile: true
 redirect_from:
-
-/es/about/
-
+  - /es/about/
+---
 
 <div style="overflow: hidden; margin-bottom: 1.5em;">
   <span style="float: right; font-size: 0.85em;">
