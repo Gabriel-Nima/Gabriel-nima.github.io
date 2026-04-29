@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<div style="text-align: right; margin-bottom: 1.5em;">
-  <strong style="font-size: 0.85em;">🇬🇧 English</strong>
-  &nbsp;|&nbsp;
-  <a href="/es/" style="font-size: 0.85em; color: #777; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 2px;">🇪🇸 Español</a>
+<div style="overflow: hidden; margin-bottom: 1.5em;">
+  <span style="float: right; font-size: 0.85em;">
+    <a href="/es/" style="color: #777; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 2px;">🇪🇸 Español</a>
+  </span>
 </div>
 ---
  
