@@ -11,11 +11,10 @@ redirect_from:
     <a href="/es/" style="color: #777; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 2px;">🇪🇸 Español</a>
   </span>
 </div>
----
  
 ## About
  
-I am an Assistant Professor at [Universidad de los Andes, Chile](https://www.uandes.cl), and a researcher at the Dental Biomaterials Laboratory ([BioMaD](/biomad/)), within the [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/). I obtained my Dental degree from the Universidad Nacional Mayor de San Marcos, Peru (2007), and hold both a Master's degree (2016) and a PhD (2020) in Dental Materials from the University of Campinas (FOP-UNICAMP), Brazil.
+I am an Assistant Professor at [Universidad de los Andes, Chile](https://www.uandes.cl), and a researcher at the Dental Biomaterials Laboratory ([BioMaD](/biomad/)), within the [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/). I obtained my Dental degree from the Universidad Nacional Mayor de San Marcos, Peru (2007), and hold both a Master's degree (2016) and a PhD (2020) in Dental Materials from the University of Campinas (FOP-UNICAMP), Brazil.  
 My work integrates research, teaching, and clinical relevance in dental biomaterials, from alternative antimicrobial therapies and adhesion to dental tissues, to polymerization behavior and 3D, printed restorative materials. I collaborate with research groups in Chile, Peru, Brazil, and the United States, and actively mentor undergraduate and postgraduate students in scientific inquiry and thesis projects.
  
 📊 **798 citations · h-index 16 · i10-index 17** &nbsp;<small>— <a href="https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es" target="_blank">Google Scholar</a>, April 2026</small>
