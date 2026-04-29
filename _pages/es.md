@@ -51,5 +51,5 @@ Ver artículo
 → Ver todas las publicaciones
 
 Colaboración y Contacto
-Estoy siempre abierto a colaboraciones con investigadores en biomateriales dentales, estrategias antimicrobianas u odontología digital. También recibo con gusto consultas de estudiantes motivados que quieran unirse a BioMaD como investigadores de pregrado o posgrado.
-📧 gnima@uandes.cl  ·  Google Scholar  ·  ORCID  ·  ResearchGate
+Estoy siempre abierto a colaboraciones con investigadores en biomateriales dentales, estrategias antimicrobianas u odontología digital. También recibo con gusto consultas de estudiantes motivados que quieran unirse a BioMaD como investigadores de pregrado o posgrado.  
+📧 [Email](mailto:gnima@uandes.cl) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es) &nbsp;·&nbsp; [ResearchGate](https://www.researchgate.net/profile/Gabriel-Nima-B)
