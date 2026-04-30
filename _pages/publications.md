@@ -12,8 +12,7 @@ Here you will find a summary of my research published in peer-reviewed journals 
 
 Journal Articles
 ======
-
-  ### 2026
+### 2026
  
 - Gallardo YNR, Ratzeburg FSG, **Nima G**, Noriega J, Calle-Chavez R, Bechtold TE, Beuer F, Sukotjo C. *Accuracy of implant-supported crowns fabricated by additive and subtractive manufacturing technologies using ceramic-filled resins: An in vitro study.* J Prosthet Dent. 2026 Feb 9:S0022-3913(26)00039-9. Epub ahead of print.  
 [View article](https://www.thejpd.org/article/S0022-3913(26)00039-9/fulltext)
