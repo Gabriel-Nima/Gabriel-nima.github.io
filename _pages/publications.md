@@ -109,6 +109,7 @@ Journal Articles
  
 Conference Proceedings
 ======
+
 ### 2020
  
 - CASTRO E, NIMA G, GIANNINI M. Efeito da inclinação de impressão na microdureza, módulo e resistência flexural de resinas provisórias para impressão 3d. *57 Encontro Anual do GBMD.*
