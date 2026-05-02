@@ -11,6 +11,7 @@ Here you will find a summary of my research published in peer-reviewed journals 
  
 
 Journal Articles
+======  
 
 ### 2026
  
@@ -19,7 +20,8 @@ Journal Articles
 - Munsibay-Foronda AY, Espínoza-Salas PL, Lovera Arellano A, Olaechea RM, Chipana-Herquinio CR, **Nima G**. *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study.* Rev Cient Odontol (Lima). 2026;14(2):e283.  
 [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/2732)
 - Silva SE, Miguel SY, Olaechea RM, **Nima G**. *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de Streptococcus mutans.* Rev Cient Odontol (Lima). 2026;14(1):e277.  
-[View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
+[View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)  
+
 ### 2025
  
 - **Nima G**, Ratzeburg FSG, Manrique Z, Mukai E, Bechtold TE, Gallardo YNR. *Accuracy of additive and subtractive methods for interim tooth-supported restorations: An in vitro comparison of occlusal, axial, and intaglio surfaces.* J Prosthet Dent. 2025 Aug;134(2):408.e1-408.e8.  
