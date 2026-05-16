@@ -5,66 +5,68 @@ permalink: /research/
 author_profile: true
 ---
 
-This research group is part of the Dental Biomaterials Laboratory (BioMaD) and focuses on the development and evaluation of dental biomaterials, dental adhesion, alternative antimicrobial strategies, and digital dentistry workflows.  
-Our research integrates materials science and biological assessment to support safe and predictable clinical outcomes.
+Our research group operates within the Dental Biomaterials Laboratory ([BioMaD](/biomad/)) at the [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/), Universidad de los Andes, Chile. We bring together undergraduate and graduate students and research assistants around a shared interest in dental biomaterials, antimicrobial strategies, and digital dentistry.
 
-Current Students
-======
-<figure style="margin: 0 auto; text-align: center;">
-  <img src="/images/Research group.jpeg"
-       alt="Students conducting research under the supervision of Prof. Gabriel Nima at BioMaD"
-       style="display:block; margin:0 auto; width:70%; max-width:700px;">
-  <p align="center" style="font-size:0.9em; margin-top:8px;">
-    Students conducting research under the supervision of Prof. Gabriel Nima at BioMaD.
-  </p>
-</figure>
+We are committed to rigorous, reproducible science with direct clinical relevance — and to training the next generation of dental researchers.
 
-**PhD Students Supervised and Co-supervised**
-1. **Macarena O. Aburto Martinez, DDS.**  
-PhD Program in Dental Science - Universidad de los Andes, Chile.  
-Research area: Dental adhesion and biomaterial-based management of dentin hypersensitivity, and surface treatment of 3D-printed dental materials.
+![Research Group](../images/Research group.jpeg)
 
-**Undergraduate Students Supervised and Co-supervised**
-1. **Felipe A. Tapia Mayorga.**  
-Research area:  FDM 3D printing in dentistry.  
-2. **Martín I. Carvajal Vives.**  
-Research area: FDM 3D printing in dentistry.  
-4. **Camila I. Contreras Medel.**  
-Research area: 3D-printed dental restorative materials.  
-6. **Sofía P. Mucherl Calatayud.**  
-Research area: 3D-printed dental restorative materials.  
-8. **Constanza B. Beltrán Castro.**  
-Research area: Surface treatment of 3D-printed dental materials.  
-10. **Josefina Serrano Morales.**  
-Research area: Surface treatment of 3D-printed dental materials.  
-12. **Valentina I. Blanco Solari.**  
-Research area: Dental polymerization, 3D-printed dental restorative materials, and surface treatment of 3D-printed dental materials.  
-14. **Ignacia A. Salas Ilabaca.**  
-Research area: Dental polymerization and 3D-printed dental restorative materials.  
+---
 
-Former students
-======
-**Undergraduate Advisees/Co-advisees**  
-1. **Juan Pablo Rojas Blanco**  
-Bachelor’s degree in Dentistry (2025) - Universidad de los Andes, Chile.  
-*Evaluación de diferentes tratamientos de superficie para la cementación de restauraciones de larga duración impresas en 3d: test de microcizallamiento.*   
+## Current Members
 
-1. **Stephanie Esther Silva Urco** and **Sayuri Yasira Miguel Soto**  
-Bachelor’s degree in Dentistry (2025) - Universidad Científica del Sur, Peru.  
-*Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de streptococcus mutans*  
-[View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)
+**PhD Students**
+- **Macarena O. Aburto Martinez**, DDS — PhD Program in Dental Science, Universidad de los Andes, Chile. *Dental adhesion and biomaterial-based management of dentin hypersensitivity, and surface treatment of 3D-printed dental materials.*
 
-2. **Alonso Humberto Castilla Cabello**  
-Master’s degree in Stomatology (2025) - Universidad Científica del Sur, Peru.  
-*Efecto del tipo de unidad de polimerización LED en la resistencia compresiva de las resinas compuestas convencionales y de incremento único: estudio in vitro*  
-[View article](https://revistas.upch.edu.pe/index.php/REH/article/view/5930)
+**Undergraduate Research Students**
+- **Felipe A. Tapia Mayorga** — FDM 3D printing in dentistry
+- **Martín I. Carvajal Vives** — FDM 3D printing in dentistry
+- **Camila I. Contreras Medel** — 3D-printed dental restorative materials
+- **Sofía P. Mucherl Calatayud** — 3D-printed dental restorative materials
+- **Constanza B. Beltrán Castro** — Surface treatment of 3D-printed dental materials
+- **Josefina Serrano Morales** — Surface treatment of 3D-printed dental materials
+- **Valentina I. Blanco Solari** — Dental polymerization, 3D-printed dental restorative materials, and surface treatment
+- **Ignacia A. Salas Ilabaca** — Dental polymerization and 3D-printed dental restorative materials
 
-3. **Andrea Yolanda Munsibay Foronda** and **Pamela Leonor Espinoza Salas**  
-Bachelor’s degree in Dentistry (2024) - Universidad Científica del Sur, Peru. (Advisor: Cinthya R. Chipana Herquinio) *Phytochemical screening and antibacterial potential of Peruvian propolis extract against Enterococcus faecalis: An in vitro study*  
-[View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/2732)
+---
 
-4. **Allison Gálvez Saavedra**  
-Bachelor’s degree in Dentistry (2023) - Universidad Científica del Sur, Peru (Advisor: Guadalupe Lavalle Vidal)  
-*Gálvez-Saavedra  A,  Lavalle-Vidal  G,  Nima  G.  In  vitro  analysis  of  two  irrigation activation  systems  for  cleaning  mesial  canals  in  lower  molars. Rev  Fac  Odontol  Univ  Antioq.  2024;  36(1): 42-53.*  
-   [View article](https://revistas-udea-edu-co.translate.goog/index.php/odont/article/view/355627?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
+## Former Members
 
+| Name | Degree | Year | Institution |
+|---|---|---|---|
+| Juan Pablo Rojas Blanco | DDS | 2025 | Universidad de los Andes, Chile |
+| Stephanie E. Silva Urco & Sayuri Y. Miguel Soto | DDS | 2025 | Universidad Científica del Sur, Peru |
+| Alonso H. Castilla Cabello | MSc | 2025 | Universidad Científica del Sur, Peru |
+| Andrea Y. Munsibay Foronda & Pamela L. Espinoza Salas | DDS | 2024 | Universidad Científica del Sur, Peru |
+| Allison Gálvez Saavedra | DDS | 2023 | Universidad Científica del Sur, Peru |
+
+> For full details including thesis titles and publications, see the [CV page](/cv/).
+
+---
+
+## Collaborating Institutions
+
+Our group actively collaborates with research teams across five countries:
+
+| Country | Institution |
+|---|---|
+| 🇧🇷 Brazil | University of Campinas (UNICAMP) · Federal University of Maranhão (UFMA) |
+| 🇺🇸 United States | University of Pittsburgh |
+| 🇵🇪 Peru | Universidad Científica del Sur |
+| 🇩🇪 Germany | Charité – Universitätsmedizin Berlin |
+| 🇨🇱 Chile | Universidad de La Frontera (UFRO) · Universidad de Valparaíso |
+
+---
+
+## Join the Group
+
+We welcome motivated students at both undergraduate and graduate levels who are interested in dental biomaterials research. We look for candidates who are curious, detail-oriented, and eager to contribute to clinically relevant science.
+
+**What we offer:**
+- Mentorship in laboratory research and scientific writing
+- Access to BioMaD facilities and equipment
+- Opportunities to co-author peer-reviewed publications
+- Integration into an active international research network
+
+**How to apply:**
+Send a brief email introducing yourself, your academic background, and your research interests to [gnima@uandes.cl](mailto:gnima@uandes.cl). Include your CV if available.
