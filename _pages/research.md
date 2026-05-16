@@ -32,11 +32,18 @@ We are committed to rigorous, reproducible science with direct clinical relevanc
 
 ## Former Members
 
+**Graduate**
+
+| Name | Degree | Year | Institution |
+|---|---|---|---|
+| Alonso H. Castilla Cabello | MSc in Stomatology | 2025 | Universidad Científica del Sur, Peru |
+
+**Undergraduate**
+
 | Name | Degree | Year | Institution |
 |---|---|---|---|
 | Juan Pablo Rojas Blanco | DDS | 2025 | Universidad de los Andes, Chile |
 | Stephanie E. Silva Urco & Sayuri Y. Miguel Soto | DDS | 2025 | Universidad Científica del Sur, Peru |
-| Alonso H. Castilla Cabello | MSc | 2025 | Universidad Científica del Sur, Peru |
 | Andrea Y. Munsibay Foronda & Pamela L. Espinoza Salas | DDS | 2024 | Universidad Científica del Sur, Peru |
 | Allison Gálvez Saavedra | DDS | 2023 | Universidad Científica del Sur, Peru |
 
@@ -50,7 +57,7 @@ Our group actively collaborates with research teams across five countries:
 
 | Country | Institution |
 |---|---|
-| 🇧🇷 Brazil | University of Campinas (UNICAMP) · Federal University of Maranhão (UFMA) |
+| 🇧🇷 Brazil | University of Campinas (UNICAMP) · Federal University of Maranhão (UFMA) · Federal University of Minas Gerais (UFMG) |
 | 🇺🇸 United States | University of Pittsburgh |
 | 🇵🇪 Peru | Universidad Científica del Sur |
 | 🇩🇪 Germany | Charité – Universitätsmedizin Berlin |
@@ -69,4 +76,6 @@ We welcome motivated students at both undergraduate and graduate levels who are 
 - Integration into an active international research network
 
 **How to apply:**
-Send a brief email introducing yourself, your academic background, and your research interests to [gnima@uandes.cl](mailto:gnima@uandes.cl). Include your CV if available.
+Send a brief email introducing yourself, your academic background, and your research interests to [E-mail](mailto:gnima@uandes.cl). Include your CV if available.
+
+> For information about our laboratory facilities and equipment, visit the [BioMaD Lab page](/biomad/).
