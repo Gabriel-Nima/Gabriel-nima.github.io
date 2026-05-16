@@ -11,8 +11,7 @@ Here you will find a summary of my research published in peer-reviewed journals 
  
 
 ## Journal Articles  
-
-**2026**
+### 2026
  
 - Gallardo YNR, Ratzeburg FSG, **Nima G**, Noriega J, Calle-Chavez R, Bechtold TE, Beuer F, Sukotjo C. *Accuracy of implant-supported crowns fabricated by additive and subtractive manufacturing technologies using ceramic-filled resins: An in vitro study.* J Prosthet Dent. 2026 Feb 9:S0022-3913(26)00039-9. Epub ahead of print.  
 [View article](https://www.thejpd.org/article/S0022-3913(26)00039-9/fulltext)
@@ -20,7 +19,7 @@ Here you will find a summary of my research published in peer-reviewed journals 
 [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/2732)
 - Silva SE, Miguel SY, Olaechea RM, **Nima G**. *Concentración del EDTA en la efectividad de la terapia fotodinámica antimicrobiana con curcumina sobre biofilm de Streptococcus mutans.* Rev Cient Odontol (Lima). 2026;14(1):e277.  
 [View article](https://revistas.cientifica.edu.pe/index.php/odontologica/article/view/3240)  
-**2025**
+### 2025
  
 - **Nima G**, Ratzeburg FSG, Manrique Z, Mukai E, Bechtold TE, Gallardo YNR. *Accuracy of additive and subtractive methods for interim tooth-supported restorations: An in vitro comparison of occlusal, axial, and intaglio surfaces.* J Prosthet Dent. 2025 Aug;134(2):408.e1-408.e8.  
 [View article](https://www.thejpd.org/article/S0022-3913(25)00308-7/fulltext)
@@ -30,7 +29,7 @@ Here you will find a summary of my research published in peer-reviewed journals 
 [View article](https://www.sciencedirect.com/science/article/pii/S0300571225004166?via%3Dihub)
 - Saldanha LMSN, Ferreira PVC, Gomes FS, **Bermejo GN**, Santos CCD, Bauer J, Martins DL. *Development of Bioactive Niobium Oxalate-Based Desensitizer: Permeability and Formation of Nanoprecursors.* Braz Dent J. 2025;36:e256534.  
 [View article](https://www.scielo.br/j/bdj/a/cvXccnnJ6Yc6QNZ8bSxXcdx/?lang=en)
-###2024
+### 2024
  
 - Sahadi BO, Sebold M, André CB, **Nima G**, Dos Santos A, Chiari MDESC, Nascimento FD, Tersariol ILDS, Giannini M. *Effect of experimental dentin etchants on dentin bond strength, metalloproteinase inhibition, and antibiofilm activity.* Dent Mater. 2024 Apr;40(4):e12-e23.  
 [View article](https://www.sciencedirect.com/science/article/abs/pii/S0109564124000393)
