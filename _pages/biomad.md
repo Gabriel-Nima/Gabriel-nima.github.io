@@ -5,7 +5,8 @@ permalink: /biomad/
 author_profile: true
 ---
 
-The Dental Biomaterials Laboratory (BioMaD) is part of the [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/) at [Universidad de los Andes, Chile](https://www.uandes.cl). The laboratory integrates research in dental materials science, oral microbiology, and digital dentistry, with a focus on developing and evaluating clinically relevant biomaterial-based solutions.  
+The Dental Biomaterials Laboratory (BioMaD) is part of the [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/) at [Universidad de los Andes, Chile](https://www.uandes.cl). The laboratory integrates research in dental materials science, oral microbiology, and digital dentistry, with a focus on developing and evaluating clinically relevant biomaterial-based solutions.
+
 BioMaD is located at the CiiB building (Av. Monseñor Álvaro del Portillo 12455, Las Condes, Santiago), at the ground floor (zócalo) of the CiiB.
 
 ---
@@ -28,14 +29,14 @@ Assessment of accuracy, mechanical behavior, optical properties, and adhesion pr
 
 ## Research Team
 
-**Principal Researchers**
+**Principal Investigators**
 
 - **Dr. Gabriel Nima** — Dental degree, Universidad Nacional Mayor de San Marcos, Peru (2007). MSc and PhD in Dental Materials, University of Campinas (FOP-UNICAMP), Brazil (2016–2020). Research focus: alternative antimicrobial therapies, photodynamic therapy, dental adhesion, 3D printing, and polymerization. [→ Full profile](/)
 
 - **Dr. Mario Felipe Gutiérrez** — Dental degree and Specialist in Oral Rehabilitation. MSc and PhD in Physicochemical and Biological Properties of Dental Biomaterials. Research focus: dental polymers (adhesives, resins, and cements), ceramics, and digital dentistry.
 
 **Laboratory Manager**
-- Javiera Ortiz Medez DDS. MSc.
+- **Javiera Ortiz Méndez**, DDS. MSc. — Laboratory management, research coordination and experimental support.
 
 ---
 
