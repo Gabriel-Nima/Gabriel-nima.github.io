@@ -70,16 +70,6 @@ BioMaD is equipped for both physical/mechanical testing and microbiological work
 Equipment booking is managed through the [QReserve platform](https://www.qreserve.com). Access requires prior training by the responsible researcher or lab manager.
 
 ---
-
-## Active Funding
-
-- **Fondo Semilla 2022** — Universidad Científica del Sur, Peru
-- **FAI Iniciación Puente 2025** — Universidad de los Andes, Chile
-- **Fondo Asociativo UAndes–UFRO 2025** — Universidad de los Andes / Universidad de La Frontera, Chile
-- **Fondo CIIMTA** — Universidad de los Andes, Chile
-
----
-
 ## Joining BioMaD
 
 We welcome motivated undergraduate and graduate students interested in dental biomaterials research. If you are interested in joining the group or collaborating, please reach out directly.
