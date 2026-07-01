@@ -1,1 +1,256 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dr. Gabriel Nima Bermejo</title>
+<style>
+  :root{
+    --bg: #FAFAF8;
+    --card-bg: #FFFFFF;
+    --ink: #1A1A1A;
+    --ink-soft: #5A5A5A;
+    --line: #E4E1D8;
+    --accent: #1B3B6F;
+    --glow: #6C7FE0;
+    --glow-soft: rgba(108,127,224,0.16);
+    --serif: Georgia, 'Times New Roman', serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+  }
 
+  *{ box-sizing: border-box; margin:0; padding:0; }
+
+  body{
+    background: var(--bg);
+    font-family: var(--sans);
+    color: var(--ink);
+    min-height: 100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding: 32px 18px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .card{
+    width:100%;
+    max-width: 400px;
+    background: var(--card-bg);
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 12px 32px rgba(20,20,20,0.06);
+  }
+
+  /* Signature element: soft "curing-light" glow behind the portrait,
+     nodding to Gabriel's polymerization/light-curing research */
+  .hero{
+    position: relative;
+    padding: 44px 32px 28px;
+    text-align:center;
+    background:
+      radial-gradient(circle at 50% 18%, var(--glow-soft) 0%, rgba(108,127,224,0) 62%),
+      var(--card-bg);
+    border-bottom: 1px solid var(--line);
+  }
+
+  .avatar-wrap{
+    position:relative;
+    width:104px;
+    height:104px;
+    margin: 0 auto 18px;
+  }
+
+  .avatar-ring{
+    position:absolute;
+    inset:-6px;
+    border-radius:50%;
+    background: conic-gradient(from 200deg, var(--glow), transparent 55%);
+    opacity:0.55;
+    filter: blur(0.5px);
+  }
+
+  .avatar{
+    position:relative;
+    width:104px;
+    height:104px;
+    border-radius:50%;
+    overflow:hidden;
+    border: 3px solid var(--card-bg);
+    background:#eee;
+  }
+  .avatar img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    display:block;
+  }
+
+  h1{
+    font-family: var(--serif);
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    line-height:1.25;
+  }
+
+  .credentials{
+    font-size: 12.5px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin-top: 6px;
+  }
+
+  .role{
+    font-size: 14.5px;
+    color: var(--ink);
+    margin-top: 14px;
+    line-height:1.5;
+  }
+
+  .role .lab{
+    color: var(--accent);
+    font-weight: 600;
+  }
+
+  .divider{
+    height:1px;
+    background: var(--line);
+  }
+
+  .contact{
+    padding: 22px 28px 30px;
+  }
+
+  .contact-item{
+    display:flex;
+    align-items:center;
+    gap: 14px;
+    padding: 12px 4px;
+    text-decoration:none;
+    color: var(--ink);
+    border-bottom: 1px solid var(--line);
+    transition: opacity 0.15s ease;
+  }
+  .contact-item:last-child{ border-bottom:none; }
+  .contact-item:active{ opacity:0.6; }
+
+  .icon{
+    width: 20px;
+    height: 20px;
+    flex: none;
+    color: var(--accent);
+  }
+  .icon svg{ width:100%; height:100%; display:block; }
+
+  .contact-text{
+    display:flex;
+    flex-direction:column;
+    min-width:0;
+  }
+  .contact-label{
+    font-size: 10.5px;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+  }
+  .contact-value{
+    font-size: 14.5px;
+    color: var(--ink);
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+
+  footer{
+    text-align:center;
+    padding: 16px 20px 26px;
+    font-size: 11.5px;
+    color: var(--ink-soft);
+    letter-spacing:0.3px;
+  }
+</style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="hero">
+      <div class="avatar-wrap">
+        <div class="avatar-ring"></div>
+        <div class="avatar">
+          <img src="https://www.gabrielnima.com/images/GNB1.png" alt="Gabriel Nima Bermejo">
+        </div>
+      </div>
+      <h1>Dr. Gabriel Nima Bermejo</h1>
+      <div class="credentials">DDS &middot; MSc &middot; PhD</div>
+      <div class="role">
+        Assistant Professor, School of Dentistry<br>
+        <span class="lab">CiiB &middot; BioMaD</span> &mdash; Universidad de los Andes
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="contact">
+
+      <a class="contact-item" href="mailto:gnima@uandes.cl">
+        <span class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
+        </span>
+        <span class="contact-text">
+          <span class="contact-label">Email</span>
+          <span class="contact-value">gnima@uandes.cl</span>
+        </span>
+      </a>
+
+      <a class="contact-item" href="https://www.gabrielnima.com/" target="_blank" rel="noopener">
+        <span class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 010 18 14 14 0 010-18z"/></svg>
+        </span>
+        <span class="contact-text">
+          <span class="contact-label">Website</span>
+          <span class="contact-value">gabrielnima.com</span>
+        </span>
+      </a>
+
+      <a class="contact-item" href="https://orcid.org/0000-0002-0389-4332" target="_blank" rel="noopener">
+        <span class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><circle cx="9.3" cy="8.5" r="0.85" fill="currentColor" stroke="none"/><path d="M9.3 10.7v6.6M12.6 10.7v6.6M12.6 10.7h2.1a3.3 3.3 0 010 6.6h-2.1" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </span>
+        <span class="contact-text">
+          <span class="contact-label">ORCID</span>
+          <span class="contact-value">0000-0002-0389-4332</span>
+        </span>
+      </a>
+
+      <a class="contact-item" href="https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es" target="_blank" rel="noopener">
+        <span class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M12 3L2 9l10 6 10-6-10-6z"/><path d="M6 12.3V17c0 1.7 2.7 3 6 3s6-1.3 6-3v-4.7" stroke-linecap="round"/><path d="M22 9v6.5" stroke-linecap="round"/></svg>
+        </span>
+        <span class="contact-text">
+          <span class="contact-label">Google Scholar</span>
+          <span class="contact-value">798 citations &middot; h-index 16</span>
+        </span>
+      </a>
+
+      <a class="contact-item" href="https://www.researchgate.net/profile/Gabriel-Nima-B" target="_blank" rel="noopener">
+        <span class="icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="12" r="9"/><text x="12" y="15.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="8.5" font-weight="700" fill="currentColor" stroke="none">RG</text></svg>
+        </span>
+        <span class="contact-text">
+          <span class="contact-label">ResearchGate</span>
+          <span class="contact-value">Gabriel Nima B.</span>
+        </span>
+      </a>
+
+    </div>
+
+    <footer>Dental Biomaterials Research &middot; Santiago, Chile</footer>
+  </div>
+
+</body>
+</html>
