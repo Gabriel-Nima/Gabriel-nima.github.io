@@ -1,1 +1,88 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="My QR">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<title>Gabriel Nima — QR</title>
+<style>
+  :root{
+    --bg: #1B3B6F;
+    --ink: #FFFFFF;
+    --sans: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+    --serif: Georgia, 'Times New Roman', serif;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html, body{ height:100%; }
+  body{
+    background: var(--bg);
+    font-family: var(--sans);
+    color: var(--ink);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding: 24px;
+    min-height: 100vh;
+    min-height: -webkit-fill-available;
+    text-align:center;
+  }
+  .avatar{
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid rgba(255,255,255,0.35);
+    margin-bottom: 16px;
+  }
+  .avatar img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  h1{
+    font-family: var(--serif);
+    font-size: 20px;
+    font-weight:700;
+    margin-bottom: 4px;
+  }
+  p{
+    font-size: 13px;
+    opacity: 0.75;
+    margin-bottom: 28px;
+    letter-spacing: 0.3px;
+  }
+  .qr-card{
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 22px;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.25);
+  }
+  .qr-card img{
+    width: min(72vw, 300px);
+    height: min(72vw, 300px);
+    display:block;
+  }
+  .hint{
+    margin-top: 26px;
+    font-size: 12px;
+    opacity: 0.6;
+  }
+</style>
+</head>
+<body>
+  <div class="avatar">
+    <img src="https://www.gabrielnima.com/images/GNB1.png" alt="Gabriel Nima Bermejo">
+  </div>
+  <h1>Dr. Gabriel Nima Bermejo</h1>
+  <p>Scan to view my digital card</p>
+  <div class="qr-card">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApQAAAKUAQAAAACStJWRAAADR0lEQVR4nO3dSw7cIAyAYbvqntyg9z/W3ABO4C7CwxBSqclMG0a/F6MkJJ+GlUViQE3eHenH20kRTExMTExMTExMTEzMT5tiZnYcIwWz3BB8q1nsW2ePxVX6jomJiYn5PLOkmJZnVFVVRHLKaqkot27zxz78PzExMTExv97UPbZ6IZiJpJyUVH+ZqW51kHT62Ip9x8TExMT8z+bPP7QlHU9tvDaNVfqOiYmJibmCaRbr16UySLprXg9MTExMzO823fjoUJ4QTFRCrKdRtN6n548t03dMTExMzOeZSV2ISK1YkPzpKB+H/BHp9LEP/09MTExMzO809/HR6aTY3JB0P7K+4eSxVfqOiYmJifk0syuPO5yamVkeASVVs1c+yvclxkeYmJiYmHfDTx8qk4sOE47KT5tmNJuTVK6t0ndMTExMzOeYXb13eS2ntXahRXlzt4n4GgfrWvdYpe+YmJiYmM8xpQ2N2jxXf21YfKG7L98c/SiL8REmJiYm5pWwSfj24FPRbGG74YUf+QgTExMT84aZfJW3HwF1U2HNXn3tQiv/TtQzYGJiYmLeiMPwplUsRJH5C7pSytB+/Ms9xkeYmJiYmH8dpZ4hbePkolasIGNDCd1/gtWjKLJO3zExMTExn2P2lQiHBn8U+lFRN0hifISJiYmJeS+G6oR8LfYfkUKfe8q12RH5CBMTExPzSsyGQcPpvMA7ivhERX0dJiYmJuadOH0Zl1tjn6iO9d7DPCXyESYmJibmhRj342uFCSZp67aVaPvxhSjDbn35mHoGTExMTMxr0a3v3RXU6X5aktJxd6RY7ivLDJVYpe+YmJiYmM8x93x02P01xHHbvWGklK+1pNTWtFum75iYmJiYzzO7b0CteVbW7VtjffbF+gyYmJiYmG8x80pAm2/u9jXqo+16lIYdZRfsOyYmJibmg82kamZmbb9y1c0vcdd+/JbmX9F3TExMTMx/a471dT6C1Uo7dTuXy747UlslqDSUhLRK3zExMTExn2O6fHSooCvXcu4p6Wm42eoefaxfh4mJiYl5Nep6qoevRLnKO23SbimTkDbX4AvvPvc/MTExMTG/29TZqOhepFX6jomJiYmJiYmJiYmJ6eM3jNxzhprshwYAAAAASUVORK5CYII=" alt="QR code">
+  </div>
+  <div class="hint">gabrielnima.com/card</div>
+</body>
+</html>
