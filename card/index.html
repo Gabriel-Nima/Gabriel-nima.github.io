@@ -117,6 +117,24 @@ layout: null
     font-weight: 600;
   }
 
+  .save-btn{
+    display:inline-flex;
+    align-items:center;
+    gap: 8px;
+    margin-top: 18px;
+    padding: 10px 20px;
+    background: var(--accent);
+    color: #FFFFFF;
+    text-decoration:none;
+    font-size: 13.5px;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+    border-radius: 999px;
+    transition: opacity 0.15s ease;
+  }
+  .save-btn:active{ opacity:0.75; }
+  .save-btn svg{ width:15px; height:15px; }
+
   .divider{
     height:1px;
     background: var(--line);
@@ -191,6 +209,10 @@ layout: null
         Assistant Professor, School of Dentistry<br>
         <span class="lab">CiiB &middot; BioMaD</span> &mdash; Universidad de los Andes
       </div>
+      <a class="save-btn" href="gabriel-nima-bermejo.vcf">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 00-4-4H6a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M19 8v6M22 11h-6"/></svg>
+        Save contact
+      </a>
     </div>
 
     <div class="divider"></div>
