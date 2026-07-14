@@ -1,1 +1,409 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tablero de registro — Impreso / Escaneado</title>
 
+<!-- ======================================================================
+  CÓMO CONFIGURAR ESTE ARCHIVO (léelo antes de subirlo a tu web)
+  ======================================================================
+  Este tablero se sincroniza entre todos los que lo abran (tú y tus
+  alumnos, cada uno desde su propio celular o computador) usando
+  Firebase Realtime Database, que es gratuito para este uso.
+
+  PASOS (10 minutos, una sola vez):
+  1. Ve a https://console.firebase.google.com y crea un proyecto nuevo
+     (el nombre no importa, ej. "tablero-lab").
+  2. En el menú lateral entra a "Build" > "Realtime Database" y crea
+     una base de datos. Elige la región más cercana (ej. us-central).
+  3. En la pestaña "Rules" de esa base de datos, pon temporalmente:
+        {
+          "rules": {
+            ".read": true,
+            ".write": true
+          }
+        }
+     (Esto la deja abierta para que cualquiera con el link pueda
+     marcar. Como no tiene datos sensibles, es razonable para este uso.
+     Si más adelante quieres protegerla con login, se puede ajustar.)
+  4. En el ícono de engranaje > "Project settings" > baja hasta "Your apps"
+     y crea una "Web app" (ícono </>). Te va a mostrar un objeto
+     firebaseConfig como el que está más abajo en este archivo.
+  5. Copia esos valores y reemplaza el objeto CONFIG que está unas
+     líneas más abajo (busca "PEGA_AQUÍ").
+  6. Guarda este archivo y súbelo a tu web tal cual. Ábrelo desde dos
+     dispositivos distintos para confirmar que las marcas se ven en
+     ambos.
+========================================================================= -->
+
+<style>
+  :root{
+    --ink:#1c2b2d;
+    --paper:#fbfaf7;
+    --line:#d8d3c8;
+    --impreso:#2f6f8f;
+    --impreso-bg:#e7f1f5;
+    --escaneado:#3f7a52;
+    --escaneado-bg:#e9f3ea;
+    --muted:#8a8577;
+    --danger:#a24030;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Segoe UI", Helvetica, Arial, sans-serif;
+    padding:24px;
+  }
+  header{
+    display:flex;
+    flex-wrap:wrap;
+    align-items:baseline;
+    justify-content:space-between;
+    gap:12px;
+    max-width:1100px;
+    margin:0 auto 18px auto;
+    border-bottom:2px solid var(--ink);
+    padding-bottom:14px;
+  }
+  h1{
+    font-size:1.4rem;
+    margin:0;
+    font-weight:700;
+    letter-spacing:-0.01em;
+  }
+  .subtitle{
+    font-size:0.85rem;
+    color:var(--muted);
+    margin-top:4px;
+  }
+  #status{
+    font-size:0.8rem;
+    padding:4px 10px;
+    border-radius:20px;
+    border:1px solid var(--line);
+    white-space:nowrap;
+  }
+  #status.ok{color:var(--escaneado); border-color:var(--escaneado);}
+  #status.bad{color:var(--danger); border-color:var(--danger);}
+  #status.wait{color:var(--muted);}
+
+  .legend{
+    max-width:1100px;
+    margin:0 auto 14px auto;
+    display:flex;
+    gap:18px;
+    font-size:0.82rem;
+    color:var(--muted);
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  .legend span.swatch{
+    display:inline-block;
+    width:11px;height:11px;
+    border-radius:3px;
+    margin-right:5px;
+    vertical-align:-1px;
+  }
+  .swatch.imp{background:var(--impreso);}
+  .swatch.esc{background:var(--escaneado);}
+
+  .table-wrap{
+    max-width:1100px;
+    margin:0 auto;
+    overflow-x:auto;
+    border:1px solid var(--line);
+    border-radius:6px;
+  }
+  table{
+    border-collapse:collapse;
+    width:100%;
+    min-width:820px;
+    background:#fff;
+  }
+  th, td{
+    border:1px solid var(--line);
+    text-align:center;
+    padding:0;
+  }
+  thead th{
+    background:var(--ink);
+    color:var(--paper);
+    font-weight:600;
+    font-size:0.9rem;
+    padding:10px 4px;
+  }
+  thead th:first-child{
+    background:var(--ink);
+  }
+  tbody th{
+    background:#f1efe8;
+    font-weight:700;
+    font-size:0.95rem;
+    padding:6px 10px;
+    white-space:nowrap;
+  }
+  td.cell{
+    padding:5px;
+    vertical-align:middle;
+    min-width:82px;
+  }
+  .mark-btn{
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:4px;
+    padding:5px 4px;
+    margin:2px 0;
+    border-radius:5px;
+    border:1px solid var(--line);
+    background:#fafaf9;
+    font-size:0.72rem;
+    font-weight:600;
+    color:var(--muted);
+    cursor:pointer;
+    line-height:1.15;
+    transition:background .15s, border-color .15s, color .15s;
+  }
+  .mark-btn:hover{
+    filter:brightness(0.97);
+  }
+  .mark-btn.impreso.on{
+    background:var(--impreso-bg);
+    border-color:var(--impreso);
+    color:var(--impreso);
+  }
+  .mark-btn.escaneado.on{
+    background:var(--escaneado-bg);
+    border-color:var(--escaneado);
+    color:var(--escaneado);
+  }
+  .mark-btn .date{
+    display:block;
+    font-size:0.62rem;
+    font-weight:400;
+    opacity:0.85;
+  }
+
+  footer{
+    max-width:1100px;
+    margin:18px auto 0 auto;
+    font-size:0.78rem;
+    color:var(--muted);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  #reset-btn{
+    background:none;
+    border:1px solid var(--line);
+    color:var(--muted);
+    padding:5px 10px;
+    border-radius:5px;
+    font-size:0.78rem;
+    cursor:pointer;
+  }
+  #reset-btn:hover{
+    border-color:var(--danger);
+    color:var(--danger);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>Tablero de registro — Impreso / Escaneado</h1>
+    <div class="subtitle">Toca una celda para marcar y registrar la fecha. Toca de nuevo para deshacer.</div>
+  </div>
+  <div id="status" class="wait">Conectando…</div>
+</header>
+
+<div class="legend">
+  <div><span class="swatch imp"></span>Impreso</div>
+  <div><span class="swatch esc"></span>Escaneado</div>
+</div>
+
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th data-col="1">1</th>
+        <th data-col="2">2</th>
+        <th data-col="3">3</th>
+        <th data-col="4">4</th>
+        <th data-col="5">5</th>
+        <th data-col="6">6</th>
+        <th data-col="7">7</th>
+        <th data-col="8">8</th>
+        <th data-col="9">9</th>
+        <th data-col="10">10</th>
+      </tr>
+    </thead>
+    <tbody id="tbody">
+      <!-- filas generadas por JS -->
+    </tbody>
+  </table>
+</div>
+
+<footer>
+  <span id="last-sync">Sin datos aún.</span>
+  <button id="reset-btn">Borrar todas las marcas</button>
+</footer>
+
+<!-- Firebase (SDK compat, sin necesidad de build tools) -->
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
+
+<script>
+  // ---------------------------------------------------------------------
+  // PEGA_AQUÍ: reemplaza este objeto con el que te entrega Firebase en
+  // "Project settings" > "Your apps" > (ícono web) </>
+  // ---------------------------------------------------------------------
+  const firebaseConfig = {
+    apiKey: "AIzaSyCFRyDRPASDkHwTxJIaeMNh4-fkyrALGqA",
+    authDomain: "tablero-proyecto-fdm.firebaseapp.com",
+    databaseURL: "https://tablero-proyecto-fdm-default-rtdb.firebaseio.com",
+    projectId: "tablero-proyecto-fdm",
+    storageBucket: "tablero-proyecto-fdm.firebasestorage.app",
+    messagingSenderId: "355748326496",
+    appId: "1:355748326496:web:7c06808fe47a6887682705"
+  };
+
+  const ROWS = [0, 30, 45, 60, 90];
+  const COLS = [1,2,3,4,5,6,7,8,9,10];
+  const DB_PATH = "tablero_impresion_escaneado";
+
+  const tbody = document.getElementById("tbody");
+  const statusEl = document.getElementById("status");
+  const lastSyncEl = document.getElementById("last-sync");
+  const resetBtn = document.getElementById("reset-btn");
+
+  let db = null;
+  let boardRef = null;
+  let currentData = {};
+
+  function cellKey(row, col){ return `r${row}_c${col}`; }
+
+  function formatDate(ts){
+    const d = new Date(ts);
+    const dd = String(d.getDate()).padStart(2,"0");
+    const mm = String(d.getMonth()+1).padStart(2,"0");
+    const hh = String(d.getHours()).padStart(2,"0");
+    const min = String(d.getMinutes()).padStart(2,"0");
+    return `${dd}/${mm} ${hh}:${min}`;
+  }
+
+  function buildTable(){
+    ROWS.forEach(row => {
+      const tr = document.createElement("tr");
+      const th = document.createElement("th");
+      th.textContent = row;
+      tr.appendChild(th);
+
+      COLS.forEach(col => {
+        const td = document.createElement("td");
+        td.className = "cell";
+
+        const impBtn = document.createElement("button");
+        impBtn.className = "mark-btn impreso";
+        impBtn.dataset.key = cellKey(row,col);
+        impBtn.dataset.type = "impreso";
+        impBtn.innerHTML = "Impreso";
+
+        const escBtn = document.createElement("button");
+        escBtn.className = "mark-btn escaneado";
+        escBtn.dataset.key = cellKey(row,col);
+        escBtn.dataset.type = "escaneado";
+        escBtn.innerHTML = "Escaneado";
+
+        td.appendChild(impBtn);
+        td.appendChild(escBtn);
+        tr.appendChild(td);
+      });
+
+      tbody.appendChild(tr);
+    });
+  }
+
+  function render(){
+    document.querySelectorAll(".mark-btn").forEach(btn => {
+      const key = btn.dataset.key;
+      const type = btn.dataset.type;
+      const entry = currentData[key] && currentData[key][type];
+      if(entry && entry.marked){
+        btn.classList.add("on");
+        btn.innerHTML = (type === "impreso" ? "Impreso" : "Escaneado") +
+          `<span class="date">${formatDate(entry.date)}</span>`;
+      } else {
+        btn.classList.remove("on");
+        btn.innerHTML = (type === "impreso" ? "Impreso" : "Escaneado");
+      }
+    });
+  }
+
+  function toggle(key, type){
+    const path = `${DB_PATH}/${key}/${type}`;
+    const existing = currentData[key] && currentData[key][type] && currentData[key][type].marked;
+    if(!boardRef){ return; }
+    if(existing){
+      boardRef.child(path).remove();
+    } else {
+      boardRef.child(path).set({ marked:true, date: Date.now() });
+    }
+  }
+
+  function initFirebase(){
+    try{
+      firebase.initializeApp(firebaseConfig);
+      db = firebase.database();
+      boardRef = db.ref();
+
+      boardRef.child(DB_PATH).on("value", (snap) => {
+        currentData = snap.val() || {};
+        render();
+        lastSyncEl.textContent = "Última sincronización: " + formatDate(Date.now());
+      }, (err) => {
+        statusEl.textContent = "Sin conexión";
+        statusEl.className = "bad";
+        console.error(err);
+      });
+
+      db.ref(".info/connected").on("value", (snap) => {
+        if(snap.val() === true){
+          statusEl.textContent = "Conectado — sincronizado en vivo";
+          statusEl.className = "ok";
+        } else {
+          statusEl.textContent = "Reconectando…";
+          statusEl.className = "wait";
+        }
+      });
+    } catch(e){
+      statusEl.textContent = "Falta configurar Firebase";
+      statusEl.className = "bad";
+      console.error(e);
+    }
+  }
+
+  buildTable();
+  document.querySelectorAll(".mark-btn").forEach(btn => {
+    btn.addEventListener("click", () => toggle(btn.dataset.key, btn.dataset.type));
+  });
+
+  resetBtn.addEventListener("click", () => {
+    if(!boardRef) return;
+    if(confirm("¿Borrar todas las marcas del tablero? Esta acción no se puede deshacer.")){
+      boardRef.child(DB_PATH).remove();
+    }
+  });
+
+  initFirebase();
+</script>
+
+</body>
+</html>
