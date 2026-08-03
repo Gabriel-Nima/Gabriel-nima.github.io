@@ -9,7 +9,7 @@ redirect_from:
 
 Assistant Professor and Researcher at Universidad de los Andes, Chile, affiliated with the Dental Biomaterials Laboratory ([BioMaD](/biomad/)) within the [Centro de Investigación e Innovación Biomédica (CiiB)](https://www.uandes.cl/centros/ciib/). My research focuses on advanced dental biomaterials, antimicrobial photodynamic therapy, 3D printing applications in restorative dentistry, and adhesive interfaces with dental tissues.
 
-📊 **798 citations · h-index 16 · i10-index 17** &nbsp;<small>— <a href="https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es" target="_blank">Google Scholar</a> · Scopus Author ID: 57194191719 · RENACYT Level III (Peru)</small>
+📊 **853 citations · h-index 16 · i10-index 18** &nbsp;<small>— <a href="https://scholar.google.com/citations?user=JdI1dwwAAAAJ&hl=es" target="_blank">Google Scholar</a> · Scopus Author ID: 57194191719 · RENACYT Level III (Peru)</small>
 
 ---
 
