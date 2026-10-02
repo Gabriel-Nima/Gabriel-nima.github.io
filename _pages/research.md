@@ -21,15 +21,17 @@ We are committed to rigorous, reproducible science with direct clinical relevanc
   *Dental adhesion and biomaterial-based management of dentin hypersensitivity, and surface treatment of 3D-printed dental materials.*
   [ORCID](https://orcid.org/0000-0001-6292-2519)
 
+**Undergraduate Thesis Students (2025–2026)**
+- ***Constanza B. Beltrán Castro*** — Surface treatment of 3D-printed dental materials
+- ***Valentina I. Blanco Solari*** — Dental polymerization, 3D-printed dental restorative materials, and surface treatment
+- ***Josefina Serrano Morales*** — Surface treatment of 3D-printed dental materials
+
 **Undergraduate Research Students**
 
 - ***Felipe A. Tapia Mayorga*** — FDM 3D printing in dentistry
 - ***Martín I. Carvajal Vives*** — FDM 3D printing in dentistry
 - ***Camila I. Contreras Medel*** — 3D-printed dental restorative materials
 - ***Sofía P. Mucherl Calatayud*** — 3D-printed dental restorative materials
-- ***Constanza B. Beltrán Castro*** — Surface treatment of 3D-printed dental materials
-- ***Josefina Serrano Morales*** — Surface treatment of 3D-printed dental materials
-- ***Valentina I. Blanco Solari*** — Dental polymerization, 3D-printed dental restorative materials, and surface treatment
 - ***Ignacia A. Salas Ilabaca*** — Dental polymerization and 3D-printed dental restorative materials
 
 ---
